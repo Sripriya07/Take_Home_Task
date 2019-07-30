@@ -1,0 +1,2001 @@
+,id,data,message_order,label
+0,KG0OUA,good morning,2,location
+1,L9DC9H,location,5,whoAreYou
+2,ZQR6R5,hi,5,whoAreYou
+3,RH0M4E,hi,4,greeting
+4,WLVX8I,hello,1,greeting
+5,M2IRWL,sir,3,whoAreYou
+6,5MXRNL,k,2,whoAreYou
+7,609W8Y,on thanks,2,dontMeetRequirements
+8,T3V6IY,hii,3,dontMeetRequirements
+9,GI07N1,sir i dnt have two wheeler,2,whoAreYou
+10,GYJWFS,hi,1,greeting
+11,6ZQLO7,hlo,3,greeting
+12,1XYSRQ,good mrng,4,greeting
+13,C7747X,ok,0,greeting
+14,WU1MHH,gm,3,notInterested
+15,AL0YY2,yes but no bikes sorry,5,notInterested
+16,NKB41P,where it is,1,whoAreYou
+17,HKWKR6,job placement company,4,greeting
+18,OGBMAM,were,5,whoAreYou
+19,J7F5AP,hiii,5,dontMeetRequirements
+20,OAMYVS,no,0,whoAreYou
+21,R6Z32R,hii,0,greeting
+22,W9VE02,thank you,1,dontMeetRequirements
+23,V952V0,where is the location,1,notInterested
+24,7YXU1E,nahi,3,greeting
+25,Z7UF71,marathi,3,whoAreYou
+26,GZLTJC,ok,1,whoAreYou
+27,2YAC8M,iska location kya hoga,2,location
+28,8I1GCO,poda,1,notInterested
+29,MY3Q1J,ok,2,whoAreYou
+30,YBEI5V,ok,2,location
+31,0C9Y5K,k,3,location
+32,UNWCX4,ldhu,3,greeting
+33,YO8Z66,hi,2,greeting
+34,XWSC3M,i am not interested,1,greeting
+35,N84XF2,how r u,4,location
+36,HTRWUM,hi,5,whoAreYou
+37,QS76OO,k,0,whoAreYou
+38,OW1O0D,hi,0,greeting
+39,HKNA96,hiio,1,notInterested
+40,8CWG23,hello,4,notInterested
+41,5ENIE2,ok thanks,2,whoAreYou
+42,WE94Y2,ok,3,whoAreYou
+43,986LDG,learning licence hai,1,notInterested
+44,S4914B,okkk,3,whoAreYou
+45,UUNNK7,bhaiii,1,greeting
+46,8H0AIC,ok,4,whoAreYou
+47,S5XV4G,hey,3,greeting
+48,J13L6Z,msg kyu karte hai,2,notInterested
+49,0FJ0SD,hi sir,2,greeting
+50,PL4IXA,ok,0,whoAreYou
+51,L2MVZC,hi,5,whoAreYou
+52,N63LPE,how are u,1,notInterested
+53,Q29W1E,hi sir,5,whoAreYou
+54,B6XAGF,i have learning licence,5,whoAreYou
+55,64HXXB,hii,4,whoAreYou
+56,SG3868,hii,4,whoAreYou
+57,3O1NCP,hii,1,whoAreYou
+58,GE2L4N,gd morning,3,location
+59,OBMETO,okay,4,greeting
+60,Y2G2AI,ok,4,notInterested
+61,714KZV,k,2,greeting
+62,WLAG4Y,dont msg,3,whoAreYou
+63,W1IP7Z,i have learning license,4,notInterested
+64,LK3Z2Z,lerner license only,3,whoAreYou
+65,9QA9O7,ok,2,greeting
+66,Y9BH9F,ok bye dear t c good night,3,notInterested
+67,XWBY4G,thanks,2,notInterested
+68,NJRYHH,which location,2,greeting
+69,4UPRAA,ohhhh sry,5,whoAreYou
+70,MCR8C2,ok,0,whoAreYou
+71,I4QYET,kidar hai job,3,whoAreYou
+72,PTTKK3,hallo,4,whoAreYou
+73,P50QW5,area,0,greeting
+74,1TEYY2,i have lr licence,3,dontMeetRequirements
+75,CBHTCZ,hello sir madam sorry but i dont have bike,4,notInterested
+76,U237AR,ok,5,location
+77,YQL2EV,no,0,dontMeetRequirements
+78,UXO1AZ,no one,3,dontMeetRequirements
+79,L9XNMY,good morning,1,greeting
+80,AIL1VG,hy,3,whoAreYou
+81,YITJGF,hai good morning,0,greeting
+82,TNL84A,ok,4,notInterested
+83,QNPBDD,hai im kishor,0,whoAreYou
+84,AX28KL,hi,5,location
+85,K7VCBE,i applied,3,location
+86,Y25I5H,y,0,whoAreYou
+87,ID97YE,no,3,location
+88,Q6UIBB,kkk,0,greeting
+89,IAN3EE,ok,0,notInterested
+90,VHXZKV,hi,0,whoAreYou
+91,6N1P2O,where should i come,5,notInterested
+92,IP0Y59,ledu,3,greeting
+93,3ZL96N,i am interested in that job but no bike,2,whoAreYou
+94,H378HD,not interested,2,notInterested
+95,F92ZYT,already i have given dis answer before 3days back,1,greeting
+96,X4YOO7,how r u,0,greeting
+97,BLZNAI,hello,5,whoAreYou
+98,EO89PT,hi,2,greeting
+99,CJC8R7,ok,3,greeting
+100,NCAOB5,hiii,1,whoAreYou
+101,AOXR9G,haa hai,5,notInterested
+102,3EQWRT,k,1,whoAreYou
+103,GBWW49,inserted no,3,dontMeetRequirements
+104,Q3CNYP,helo,0,notInterested
+105,0F6INN,hai,2,notInterested
+106,LGS2C2,two wheeler aahe,2,whoAreYou
+107,FC5ADO,hello,2,whoAreYou
+108,GDHCBH,hi,3,location
+109,S1MT2F,hi,5,greeting
+110,SP2TPW,ok,3,whoAreYou
+111,YYGGLH,hi,2,greeting
+112,MB7OTA,hi,4,whoAreYou
+113,5KFO2B,ok,2,dontMeetRequirements
+114,6NKGQQ,hiii,2,greeting
+115,K3JSO1,hii,2,dontMeetRequirements
+116,D5BG34,hi,2,greeting
+117,QJGOQM,kkkkk,0,whoAreYou
+118,THBPPW,hii,2,notInterested
+119,5S2ARJ,location,3,dontMeetRequirements
+120,UNKG6S,k,4,notInterested
+121,SAP5X2,good morning,4,greeting
+122,SZ9R07,driving licence process,2,whoAreYou
+123,5AC95I,hii,0,whoAreYou
+124,HZRPEH,location kya hai sir,0,whoAreYou
+125,KFVKKX,haii,0,whoAreYou
+126,ZQDUW3,hii,1,whoAreYou
+127,PAYXKO,ok,0,dontMeetRequirements
+128,YIAGGH,ok,5,greeting
+129,SDU5B6,ll,2,whoAreYou
+130,3OKT4Y,no,2,greeting
+131,1C33WL,sorry,5,whoAreYou
+132,VS4VEQ,swiggy nai karna he merko,2,notInterested
+133,VHZG00,hii,1,location
+134,3JZ5TP,ok,1,greeting
+135,CRJVZ6,g sir,5,greeting
+136,Z84STB,kuthe aahe vacancey,3,greeting
+137,7IZQWA,sry sir now im not interested on job,2,notInterested
+138,2RXHW0,no,1,greeting
+139,JOJLVL,ok,3,whoAreYou
+140,F11U3U,okok,5,whoAreYou
+141,D0BZWO,no,3,whoAreYou
+142,M3VRPS,hi,0,notInterested
+143,00KNY3,i have llr,3,notInterested
+144,V6D17O,in which area,0,dontMeetRequirements
+145,9F4373,location kon si rhe gi sir g,3,notInterested
+146,UONOCC,no,4,whoAreYou
+147,SZ4KBY,where office,1,whoAreYou
+148,5WBTTJ,helo,3,whoAreYou
+149,ORC294,good morning,1,whoAreYou
+150,URA4PO,hi sir,5,whoAreYou
+151,78HXUO,ok,5,greeting
+152,OO1WHQ,ok,2,whoAreYou
+153,S0YZGI,ok,3,greeting
+154,62F501,ok,0,notInterested
+155,1A3DOF,hiiii,3,whoAreYou
+156,WEGQMG,hi,5,dontMeetRequirements
+157,ZBY4F2,hi,0,greeting
+158,5W13ZG,hi,5,whoAreYou
+159,FX5SAO,hii,5,dontMeetRequirements
+160,9BMDK8,i have my learning license is it ok for job,4,greeting
+161,3E2E13,bt bike nhi aata,1,whoAreYou
+162,JZUIOW,ok,5,location
+163,ZM5418,but i dont have two wheeler,1,greeting
+164,JWOJ5F,yas,5,location
+165,KEXKO5,gm,3,notInterested
+166,P8AFFS,hai,0,whoAreYou
+167,9QA8Z7,dear sir or mam,3,whoAreYou
+168,1M84I1,llr,0,dontMeetRequirements
+169,NWF6AU,hey mam,0,dontMeetRequirements
+170,QZX0ZY,hi,4,whoAreYou
+171,O98DOY,sorry i didnt have original licence,2,whoAreYou
+172,V36PYJ,k,1,notInterested
+173,9O8Z5D,ok,0,greeting
+174,ZVGHS2,i had already joined and left the job,2,whoAreYou
+175,VOAKOK,hii,2,notInterested
+176,DGM3W7,oky,3,greeting
+177,X978V6,ok,1,location
+178,PEAIDO,telugu ni aati,2,whoAreYou
+179,NB32KE,get lost,3,notInterested
+180,2EFXFI,hi,2,greeting
+181,DD7QWE,hi,3,notInterested
+182,V5CE5J,near banashankari,4,whoAreYou
+183,3IES44,i dnt have bike will u provide,0,notInterested
+184,38655E,hiiii,0,dontMeetRequirements
+185,F04F1O,hi,4,notInterested
+186,I42747,hi sir,5,whoAreYou
+187,I3QDTA,tq,0,whoAreYou
+188,TDVKUY,ohhh k,1,notInterested
+189,0MALHX,ok,1,whoAreYou
+190,FQFRWU,hello,5,greeting
+191,J39OQ6,job location,0,whoAreYou
+192,4UZKPJ,kahapar hai job,0,location
+193,FZZMAZ,no we,5,greeting
+194,C8TYHC,hello,5,notInterested
+195,PPSYG2,hi,2,greeting
+196,0UD8C3,good morning,1,notInterested
+197,U2RCTA,ok,1,greeting
+198,806PEJ,hlw,1,notInterested
+199,2EABDW,but i dont have a bike so have can i do this type of jobs,5,notInterested
+200,JXEJTR,hai good morning,3,whoAreYou
+201,5V63MW,llr license,3,whoAreYou
+202,K1NVFN,k k,3,dontMeetRequirements
+203,BIJ3QZ,hi,5,greeting
+204,HVUA2U,hai,0,whoAreYou
+205,H8550Q,ekada job,5,whoAreYou
+206,I5IU8C,driving license nai hai but gaadi hai,5,greeting
+207,LM5JV1,gdmng,1,dontMeetRequirements
+208,LB6GR9,sry i dnt have a bike to do this job thank you,1,greeting
+209,5JZFLX,kkk,2,whoAreYou
+210,WQGK5I,sir bike nahi hai,3,notInterested
+211,0HUJ05,thank you,5,greeting
+212,F5RHW6,what location,3,notInterested
+213,8SD3A9,i have a leaning license,5,whoAreYou
+214,CEI40A,ok,1,greeting
+215,0BC07U,ok,4,greeting
+216,AV7R7W,bhai,3,whoAreYou
+217,FL10RD,okau,5,greeting
+218,GJYSVJ,ok,3,greeting
+219,G9PWMH,helloooo,3,whoAreYou
+220,TDLURE,good night,0,notInterested
+221,JCUEX6,thanks,4,dontMeetRequirements
+222,SMKE5U,i want to my nearest jalahalli cross address,4,whoAreYou
+223,Q2FG14,good night,3,notInterested
+224,MV7OI3,hi unnati thx for contacting me,0,notInterested
+225,ZIPT00,ok,4,greeting
+226,46N06K,ok ok,3,greeting
+227,XCRIJW,where s the office,3,location
+228,L014TW,ok,0,greeting
+229,5I79AF,i applied for license but not yet received,1,greeting
+230,ZA2AR7,k,4,notInterested
+231,CIBIVS,how r u,4,whoAreYou
+232,IH326X,बइक नह ह,0,notInterested
+233,6B0G3F,ok,4,notInterested
+234,Z6HKYO,kk,2,dontMeetRequirements
+235,KOQJ9L,you dont have swiggy offic in thane,5,whoAreYou
+236,WYZL8Y,ok,0,whoAreYou
+237,258WM9,kahase vai,2,greeting
+238,EVEZJ0,where i have to come for interview,4,notInterested
+239,RINU9R,hii,3,whoAreYou
+240,NAR2RT,hlo vahna,3,notInterested
+241,9X46W3,bike ledhu,3,greeting
+242,3Q3WEG,k,5,whoAreYou
+243,MY1JHR,suno bhai meri age nahi hai 17th hya,1,greeting
+244,DSF5CU,okay,3,dontMeetRequirements
+245,00W0VD,in which location,5,notInterested
+246,XVT3O3,hello,4,dontMeetRequirements
+247,AXXXEK,i have need jobbut i am not apply fees,4,notInterested
+248,HRAJS5,no licence,1,notInterested
+249,43V1WZ,bhi na bike hai na licence hai,4,greeting
+250,147F8C,i not interests,2,whoAreYou
+251,68ORM2,sirwhich area,4,notInterested
+252,1DRD1G,no bike,2,greeting
+253,XBTTJO,ok,4,greeting
+254,NQ9NJZ,hii,2,whoAreYou
+255,Y3WMBB,ok,0,whoAreYou
+256,QYR8I7,why i should deposit,0,location
+257,W06SBO,but doesnt have driving license,5,greeting
+258,T9RLD4,hii,1,whoAreYou
+259,JB39Z4,ok,5,greeting
+260,JZXY6K,hello brother,1,whoAreYou
+261,PE42AW,hiii,1,location
+262,URQ329,ktq so much sar or mam by,2,location
+263,R6OMM4,okn,0,greeting
+264,EAIXAI,hai,4,whoAreYou
+265,GIJRWR,hii sit,5,greeting
+266,8BTVQU,hi,1,dontMeetRequirements
+267,YJ5CM7,i dnt have bike but this job intrested,2,whoAreYou
+268,LRRF38,why should i tell you,1,notInterested
+269,BVHB5L,i have learning license,3,whoAreYou
+270,JBT0CQ,sorry i m unable to pay 500 rupees,2,notInterested
+271,BNUW6I,ok,1,greeting
+272,CTPYLL,unexpectedly i applied for this job,4,greeting
+273,K4C5K3,dont send any text msg,5,location
+274,AWI2P0,k,2,notInterested
+275,ADNKEO,hi,0,dontMeetRequirements
+276,IMO9HZ,near vijaynagar,3,notInterested
+277,7PQIXJ,ur location,1,location
+278,4WWIF0,hello,4,whoAreYou
+279,TCMDFQ,but job location,1,greeting
+280,NBSW3D,ok,0,whoAreYou
+281,LKYJD9,i have learning license,1,notInterested
+282,94LFUN,which city,0,whoAreYou
+283,EE24ZT,hello,4,whoAreYou
+284,WEPQTT,you head office,3,notInterested
+285,039QO8,hi,2,greeting
+286,XYIWKR,hi,4,dontMeetRequirements
+287,56S4XN,whr is your office pls,4,greeting
+288,30R80E,gud mrng,0,greeting
+289,C6ZEDT,ok not interested,5,greeting
+290,H38PTG,i have lost my license so im making new,5,whoAreYou
+291,GHHPUZ,hii,1,notInterested
+292,7TZTAM,hlo,1,greeting
+293,X34EWI,ok,2,whoAreYou
+294,YPFW58,k,3,location
+295,RUG0BB,hi,1,whoAreYou
+296,2DZF8P,okok,3,whoAreYou
+297,II9M86,k,4,dontMeetRequirements
+298,295WE7,ok,1,whoAreYou
+299,P1JH2M,hello,1,whoAreYou
+300,3XZDFI,okey,1,greeting
+301,XQ84T5,which location,5,location
+302,80MSEU,lr,3,whoAreYou
+303,27QL1V,hii,0,whoAreYou
+304,O89PMZ,gud morning,4,notInterested
+305,B9I333,which area,5,greeting
+306,A4WZES,but mere paas bike nhi hai,5,whoAreYou
+307,HYSELH,llr,0,whoAreYou
+308,C286XU,hello job location akkada,3,notInterested
+309,1DKKQK,bhakk,1,whoAreYou
+310,PBV1A3,okay,2,greeting
+311,6HB21K,i dont have vehicle sir,1,notInterested
+312,RLXHOU,sorry,1,whoAreYou
+313,YUFNT7,location were,5,dontMeetRequirements
+314,Q70ZHB,wher,0,greeting
+315,G1X3XA,hello,3,whoAreYou
+316,ADWYPN,dl,3,whoAreYou
+317,JS11UL,snd the location,5,location
+318,TE2O24,two wheeler ahe pan license nahi,3,whoAreYou
+319,B5G4OK,hello me peru,5,greeting
+320,E3CKAK,ok,2,whoAreYou
+321,KRXOTI,no bike,3,whoAreYou
+322,T11AS8,hi,0,notInterested
+323,BK3V7X,hi,2,dontMeetRequirements
+324,CVTK5R,tq,0,greeting
+325,KPMR0D,interview place,5,notInterested
+326,OLWH4F,ok thanks sir,1,greeting
+327,7QC3FB,job kaha pr h sir,5,greeting
+328,QKBFHM,address,2,notInterested
+329,B2OWDA,hi,1,notInterested
+330,KYUAV4,gm,4,dontMeetRequirements
+331,3V1DNQ,hiii,5,whoAreYou
+332,XFXCJZ,helo,5,notInterested
+333,QVNYC2,okay,3,whoAreYou
+334,7J7861,hello,0,whoAreYou
+335,2CLA15,hiii,3,whoAreYou
+336,J5ED7V,i have no bike,4,notInterested
+337,IJTIDQ,hello,4,greeting
+338,DON336,hii,0,greeting
+339,Y9UT28,i have no two wheeler,3,greeting
+340,MU1ZOI,ok,5,whoAreYou
+341,YGNTGJ,yes but where are from,1,whoAreYou
+342,M2KEX4,ok,3,notInterested
+343,W8W0VP,hello,1,whoAreYou
+344,EICLS9,hello how are you,0,whoAreYou
+345,4MEDI6,hi,5,whoAreYou
+346,EMJ0E8,location,5,greeting
+347,DVWJ17,mere pass bike nhi hai,4,greeting
+348,WHM7QW,hi ra,1,whoAreYou
+349,NTYD0W,good morning everyone,0,notInterested
+350,FPKVL3,good morning,5,notInterested
+351,SFBDIC,hello,0,greeting
+352,4U617C,better i wl blk u,4,whoAreYou
+353,ATMWBB,मर पस बइक नह ह,2,notInterested
+354,6YMHH4,hello,1,greeting
+355,X6YLBO,sir bike nahi hai,3,notInterested
+356,Y3SH9Y,nahi,5,greeting
+357,RY2Y69,hello,4,whoAreYou
+358,F8BIDM,kk,4,whoAreYou
+359,Z49Q7G,ok,2,notInterested
+360,019LLI,where,5,notInterested
+361,G51VCB,i dont have vehicles and license also,1,greeting
+362,QDYWFD,gd mrng,5,greeting
+363,FE9ZD1,k,2,whoAreYou
+364,RC97MT,hi,5,dontMeetRequirements
+365,TPCLC5,ok,1,greeting
+366,NFD0BP,hi,0,whoAreYou
+367,4INEVO,am from thiruvallur where is job location,3,whoAreYou
+368,I99L06,where is kasturinagar,4,notInterested
+369,5DHOLO,kidar hey,2,location
+370,FJTUMK,లద,4,notInterested
+371,5RLRN0,hii,0,greeting
+372,KODRH6,give address,0,dontMeetRequirements
+373,S4PNMZ,tq,5,whoAreYou
+374,1JUGLD,ok,0,greeting
+375,D3HMHC,hi,5,whoAreYou
+376,U1M17Q,hi,3,notInterested
+377,SHVXFF,learning licence,1,greeting
+378,UGVYFH,dombivli mein hai kya,1,notInterested
+379,96RDFQ,apply chesanu,4,greeting
+380,8S0MYG,bat were,5,greeting
+381,X3I8HU,hello,0,notInterested
+382,94A1HG,good morning,0,dontMeetRequirements
+383,84TDV4,okay,0,location
+384,2VZZEY,hi,0,whoAreYou
+385,Q90QFX,bhai apka location kidar hi,4,whoAreYou
+386,6GX8LN,iam not interested,3,notInterested
+387,NI60LW,hi,1,location
+388,R7CWTM,hiii sir,0,notInterested
+389,K2UGS5,were is the place,3,greeting
+390,CJWDDY,hi,4,notInterested
+391,NDXHZ1,i dont have bike,5,dontMeetRequirements
+392,S1EEUU,ok sir,5,notInterested
+393,XLBUPK,i dot have licence,1,whoAreYou
+394,DRF99K,learning license,2,whoAreYou
+395,KAAS3I,hi,1,whoAreYou
+396,WLPI8T,na ku bike,0,whoAreYou
+397,EA6E53,ok ok,1,greeting
+398,7MF3FX,ok,4,greeting
+399,MJS835,k,0,whoAreYou
+400,MQ0JKV,sir,3,location
+401,514VIE,nhi karna h,2,notInterested
+402,J5BXES,ok,4,whoAreYou
+403,DFUSH5,bike nhi hai,0,location
+404,6J12XY,but im below 18,4,notInterested
+405,02ZUBP,ok,0,notInterested
+406,MVRFXJ,mere paas filhaal driving licence ka paavti hai,2,dontMeetRequirements
+407,NG6FJV,hi,0,greeting
+408,BX2FJ9,hi,5,dontMeetRequirements
+409,Q6XN90,good night,3,notInterested
+410,23FHY0,hi,3,greeting
+411,2B70RI,ol,1,greeting
+412,3MAL6L,hlo,5,greeting
+413,F7GLVM,where,2,whoAreYou
+414,PKC1CH,gn,3,dontMeetRequirements
+415,N3I54Z,hello,5,notInterested
+416,WBGB3U,whr in job,4,whoAreYou
+417,YDBVH9,kk thank you,4,dontMeetRequirements
+418,TXSKIG,hold on,4,location
+419,G1TSEX,where is office address,5,whoAreYou
+420,PFD6U8,ok,4,whoAreYou
+421,0QY7MT,which area,4,dontMeetRequirements
+422,W7ZV7N,hai,0,notInterested
+423,ETZ53I,where,4,notInterested
+424,9IWM97,no,2,greeting
+425,PJMCUJ,ok sir,2,whoAreYou
+426,6HQ1YT,inshallah i well come,4,notInterested
+427,OJU2S1,okay,1,greeting
+428,GOZ8X4,hello,3,notInterested
+429,UGTC13,bike nahi hai,5,greeting
+430,UMDN3T,i m under 18,0,greeting
+431,MW5HRF,not interested,4,dontMeetRequirements
+432,N1ND0Y,hi,1,whoAreYou
+433,Y7IXQ5,k,4,location
+434,2D92ZZ,location,5,greeting
+435,WNS621,kk lev it,3,dontMeetRequirements
+436,3Q7TU2,hii,4,greeting
+437,C4J6T1,hi,4,dontMeetRequirements
+438,LI5X6H,ok,5,notInterested
+439,GMZTUL,hello,1,notInterested
+440,6W0UNT,where,5,notInterested
+441,Q81XR1,assalatu khairu minanum,3,notInterested
+442,57KTTN,learning,5,notInterested
+443,JOYSXL,yes but i am no money,0,notInterested
+444,MRSG6E,ok,3,whoAreYou
+445,QPAOFT,ok,5,notInterested
+446,MCGB4N,hi,3,dontMeetRequirements
+447,UNZAL6,sir can u say me were tht office,1,notInterested
+448,Q56QQT,hi,5,whoAreYou
+449,FP1W6R,ok,1,greeting
+450,US5NIH,ledhuu,1,greeting
+451,CCMJRX,hello,5,greeting
+452,XA23CA,ok,0,notInterested
+453,665MN2,mere paas bike nhi hai,0,greeting
+454,K4FFH0,sorry but muze bike chalana nhi aata,1,whoAreYou
+455,263DIM,hiiii,2,greeting
+456,IT4J2T,hi,4,greeting
+457,UK5ZAY,where kasthuri nagar come,2,whoAreYou
+458,K0EAZN,ledhubut teeeskuntanu,5,notInterested
+459,0987UV,halo,3,whoAreYou
+460,R9EL35,im present busy,2,notInterested
+461,6V6RTZ,llr,2,location
+462,IRDHVO,thanks,2,greeting
+463,KALEVH,no,0,notInterested
+464,RN1JLA,sir i need job in near by rajajinagar is there any delivery boy jobs,5,greeting
+465,UG8A8J,hi,0,whoAreYou
+466,GPDKNB,hi,1,notInterested
+467,S48P1L,where is the location,5,whoAreYou
+468,2I109P,wher,1,notInterested
+469,GT9CV4,okk,3,notInterested
+470,1TDN99,hi,4,whoAreYou
+471,K5YSZY,hi,4,greeting
+472,KNIZBF,i have ll,0,greeting
+473,KKGWTF,thanks for the information,1,greeting
+474,GFESJW,bro,2,greeting
+475,BMUZD5,hi yari,4,notInterested
+476,OX5RVG,k,1,greeting
+477,MEP4FK,hlo,4,notInterested
+478,90VJWM,ok,3,notInterested
+479,SVYZ24,hi,1,notInterested
+480,TODM1M,btw for which location,3,notInterested
+481,H7A6V2,ok,5,dontMeetRequirements
+482,CIBS34,licnc he but bike nahi,0,greeting
+483,IN8SYY,noh,1,location
+484,TXLUDM,hi,4,whoAreYou
+485,646HIG,hii,4,notInterested
+486,3MWG4F,assalamualaikum,4,greeting
+487,WP6ZAX,office address,2,greeting
+488,9O1Z6P,जय महरषटर,3,whoAreYou
+489,PIKWPC,i dont hv bike and license,4,greeting
+490,DRR952,hi,1,notInterested
+491,4WREKB,hii,3,whoAreYou
+492,LPU45J,ok thnx bro,4,notInterested
+493,J71D7C,k,2,greeting
+494,5LI5L1,hello,2,greeting
+495,NSDPFU,hii,0,notInterested
+496,DFNWKA,4 welar lagana hy,1,whoAreYou
+497,PGUK1L,thank u computer,4,whoAreYou
+498,GQ5RNL,hi,2,location
+499,3VX63W,i have my bicycle,2,notInterested
+500,14AGSB,ledhu,3,whoAreYou
+501,AA3HTM,but left ago 3months,0,dontMeetRequirements
+502,GM8Q28,i need clarity r else they will keep on calling and disturb,4,greeting
+503,6P8SF1,gd night to all,1,greeting
+504,7WRB7O,hi,0,dontMeetRequirements
+505,NRJDRI,chal be,4,greeting
+506,V2IDT5,hi,0,whoAreYou
+507,OU3DB3,i dnt want in swiggy,3,greeting
+508,O49IQI,sir kamm kis state me ha,4,whoAreYou
+509,C5BIR0,okkk,2,greeting
+510,B1HPEG,no bike,1,location
+511,5X4JY2,hello,0,notInterested
+512,0Q66BY,ok,5,greeting
+513,0XDJY8,haii,0,greeting
+514,JRF117,hi,1,greeting
+515,AITHHD,licence hai,5,greeting
+516,EYCCA0,hi,1,notInterested
+517,J4MZK8,ok,1,whoAreYou
+518,G8JKJ7,which area and when,3,greeting
+519,KZJTWZ,ok,3,dontMeetRequirements
+520,VI4ANW,hi,2,whoAreYou
+521,HPIQ4H,ok,2,notInterested
+522,HHP255,kk,5,greeting
+523,D1G7XR,good morning have a nice day,0,greeting
+524,ZCOJ42,hi,1,greeting
+525,FA4JAV,bro,3,whoAreYou
+526,PWKYFE,sir job location kaha hai,5,greeting
+527,3KZ3ZL,which is branch,5,greeting
+528,8JV6AN,learing i hve,2,greeting
+529,41ZRZH,thanks,4,greeting
+530,AY3I7L,which place sir,5,notInterested
+531,TNFX1R,bhai,4,notInterested
+532,Y49YBD,ok,2,whoAreYou
+533,VUP6LR,drop me the address,1,whoAreYou
+534,AS6PSA,hlo,2,dontMeetRequirements
+535,NS940I,ok,5,greeting
+536,S3FFPH,ok sir,5,whoAreYou
+537,CE9AZS,k,5,greeting
+538,C6IJ95,whr is your office,2,greeting
+539,TMTAB1,assalaamu alaikum,1,greeting
+540,27NXXM,ok,3,dontMeetRequirements
+541,L0WHD1,kaha pr h,0,greeting
+542,9AT0W5,hii,1,greeting
+543,R8EPY8,where,4,notInterested
+544,GA6CGU,not sure,2,notInterested
+545,KNX041,area,1,greeting
+546,IGEYJ8,sry i dnt have bike,4,whoAreYou
+547,6FW94R,sorry l am not good ride vehicle,2,notInterested
+548,LVTKUI,ok,3,notInterested
+549,KH8Q37,k,1,whoAreYou
+550,TQPD14,no,2,greeting
+551,9S6X4Y,sorry,1,dontMeetRequirements
+552,87TUHX,no,2,whoAreYou
+553,UH09M8,hi,0,greeting
+554,54U7M0,i dont want job,3,dontMeetRequirements
+555,QFSMMW,dont send this type of messages to me,5,dontMeetRequirements
+556,VBCX6H,hello i have bike license but i sold my bike can you arrange bike for me,2,greeting
+557,OI0M2X,okay,5,location
+558,0K9Q6O,hi,5,notInterested
+559,G8P8QZ,dont have interest,4,greeting
+560,YDC49M,hi,0,greeting
+561,7B3OP0,ok,5,whoAreYou
+562,BQJTJO,which pleas,5,greeting
+563,AUQQ5B,haisir,5,greeting
+564,D3P2H5,how are you,4,whoAreYou
+565,TOHAX6,no money to pay,0,greeting
+566,ROHIJM,k,2,dontMeetRequirements
+567,54QUH2,hi,1,notInterested
+568,UU5HMJ,kkk,0,whoAreYou
+569,RH0VHM,hi,2,notInterested
+570,NIIVUN,hi,4,dontMeetRequirements
+571,Y6VMKM,hi,5,notInterested
+572,TI9VOC,hii,2,notInterested
+573,YHEHJD,ok,0,notInterested
+574,060RTE,thank you,5,greeting
+575,TM5169,hii,5,greeting
+576,GVKYYO,ok,4,whoAreYou
+577,NU6LNP,vasai virar mein hai swiggy delivery boy vacancy,2,greeting
+578,HU0BV1,hi,4,greeting
+579,PDP4K1,i dont have bike,1,notInterested
+580,10KQRA,hiii,5,notInterested
+581,K9ZXN4,llr i have,2,notInterested
+582,TVMZ6T,ok,3,greeting
+583,JU5FXN,but i dont have driving licence,4,whoAreYou
+584,9JFJE6,hii,2,location
+585,4TAJ23,hi,5,whoAreYou
+586,SRK4E8,ok,5,notInterested
+587,S3NU9C,i dont have a bike,4,greeting
+588,2MKV1C,where,0,whoAreYou
+589,JADE1A,ok,3,location
+590,AM0RM7,which area we will give,5,notInterested
+591,LPPMTX,ok,0,whoAreYou
+592,A95I1W,hi,4,location
+593,LH64N5,i have ll,1,whoAreYou
+594,WGVQZZ,hi sir,0,whoAreYou
+595,4GJ3EH,hi,0,notInterested
+596,PIXBQ8,ok,0,whoAreYou
+597,DB0FQZ,give office,1,greeting
+598,FXYJ4N,hi,1,whoAreYou
+599,G898CI,mere pass bike nahi,3,greeting
+600,LFP665,where is the office,1,location
+601,PNJYTT,లద,1,whoAreYou
+602,JZ4Q1N,ok,2,dontMeetRequirements
+603,91EU5D,hii good morning,2,dontMeetRequirements
+604,IXXEKP,hi,3,greeting
+605,6OKD6T,hello,5,notInterested
+606,7Z2MZO,kon banega core pati ka contest hai kya,0,greeting
+607,RW16T9,hiii,3,greeting
+608,K25TVN,i have already done with this job,3,notInterested
+609,E75P6C,address,1,notInterested
+610,1EXM47,nothing,3,whoAreYou
+611,SY79PM,hello,5,whoAreYou
+612,5M7K12,hi,0,whoAreYou
+613,ECHK4G,hii,5,notInterested
+614,A76FK7,good afternoon,2,notInterested
+615,5UATL0,sry,3,location
+616,KFBY01,hello,3,notInterested
+617,KALDLH,i lose my dl,1,notInterested
+618,XS0HV4,hiii,3,whoAreYou
+619,OKW6I3,2apply,1,greeting
+620,9WHTVP,gm chill climate,3,greeting
+621,TQR3IM,ok,0,whoAreYou
+622,PJAV9W,ye kis jegha h,1,whoAreYou
+623,RCNHIC,salam where its job,3,greeting
+624,Q7Q5H2,how are you,2,greeting
+625,5372M4,ok i understand,0,whoAreYou
+626,9JZJBJ,hi,5,whoAreYou
+627,V4ZLXH,hii,3,greeting
+628,6J6QZO,sorry,0,greeting
+629,9LQZ41,bike ledhu,0,dontMeetRequirements
+630,0MB3SG,kkk,1,greeting
+631,4Q9AAE,thank you unnati not now may be later,1,notInterested
+632,AJ0WOW,hai sir,5,location
+633,G5COII,where will be tge work,3,whoAreYou
+634,7PLMZY,okya,2,whoAreYou
+635,KONMI3,hi,5,whoAreYou
+636,T7MMHV,which place,0,whoAreYou
+637,LSOUTN,hi,1,greeting
+638,HFPISV,ok,2,notInterested
+639,PQ9NSC,hi,5,location
+640,E160FF,hyy,4,location
+641,IZ8382,for which place you recruitment,4,greeting
+642,P52E0Z,thanks for your concern,0,greeting
+643,82Z6KY,ok,4,notInterested
+644,LD1PQU,hi sir,3,notInterested
+645,1YDOQM,please pura address d,5,greeting
+646,H3TFCO,bro,2,whoAreYou
+647,VMYNZF,ok,4,greeting
+648,DJQD1N,k,3,greeting
+649,YG8O8I,hiii,5,notInterested
+650,UWB4UD,o sorry no2,3,whoAreYou
+651,0C8H0P,hi,2,notInterested
+652,AXFZS8,ok,0,notInterested
+653,PQLKV1,thanks,0,notInterested
+654,C72KVP,hi,0,whoAreYou
+655,73MOXR,no,0,whoAreYou
+656,EPRHVV,hi,3,location
+657,RD561G,i dnt have bike and dl i knw ridng bike,0,whoAreYou
+658,9MY9Z8,thanks,5,greeting
+659,EI3XPU,k,3,notInterested
+660,V3JP51,heyyyy,0,greeting
+661,GAE7Z8,oj,0,whoAreYou
+662,3OHES1,hi,2,notInterested
+663,77NHQ0,ok,3,notInterested
+664,X7EFSW,i have no bike ie my problem,3,notInterested
+665,UWIM1K,ok,5,whoAreYou
+666,EMP63J,sorry not interested,0,whoAreYou
+667,S39HPF,hi,4,dontMeetRequirements
+668,B6M9AZ,voke,0,greeting
+669,8DN1FE,ok,0,whoAreYou
+670,N0WF7O,good m,1,whoAreYou
+671,Y6ILBH,i want online offline system other wise no chance then will be not interested,0,greeting
+672,YYMM4F,hi,1,greeting
+673,XSK8VA,gm,3,dontMeetRequirements
+674,HSNVK8,hiii,1,greeting
+675,DUH700,hi,0,greeting
+676,PJT1B8,thanks for your concern mr varun,2,location
+677,G27K8X,where,1,whoAreYou
+678,TR1R17,brother i dont hav bike and dl also,1,dontMeetRequirements
+679,9HZECA,hi,5,greeting
+680,9MUKS2,hlo,4,greeting
+681,2J4O9P,hi,4,notInterested
+682,L715UO,hi,3,whoAreYou
+683,RCERXE,hi,4,dontMeetRequirements
+684,7LO6N6,hello,3,notInterested
+685,TFJ48C,ok,1,location
+686,ZSM7PQ,ok,1,whoAreYou
+687,U6A2JI,ok,3,dontMeetRequirements
+688,4TRP1N,no thanks,0,whoAreYou
+689,IWAYOE,youre making me angry seriously,1,whoAreYou
+690,SJZI46,ok,4,whoAreYou
+691,TFOHO9,gm,0,greeting
+692,4SSK7W,would u provide twowheller,1,greeting
+693,0A6JR8,can you tell me the place of office,1,notInterested
+694,G0TH5O,ok,2,whoAreYou
+695,BKZ1J6,hello,2,whoAreYou
+696,EW9UJG,ok,1,location
+697,PZ9I9Z,hallo,5,greeting
+698,GQ4TYA,oki bro,0,greeting
+699,6EELUO,yes but i dont have license but i own a vehicle,5,location
+700,TBKDCH,i got job sir dnt txt me sry,0,greeting
+701,0T2YON,banane diya hi mere pass tha gum ho gaya hi,4,greeting
+702,S3205O,ok,0,greeting
+703,6XRYY3,learning license available,0,dontMeetRequirements
+704,61K6JL,hi,1,whoAreYou
+705,K6IMRL,bike nhi hu ga tu chil a gaa kya,0,dontMeetRequirements
+706,Y2JVFL,send me u r location ill come there,4,dontMeetRequirements
+707,WYZEQ2,hi,5,whoAreYou
+708,HVWP8Z,where,2,greeting
+709,52YASS,hi,1,notInterested
+710,9HOBF2,land mark,1,greeting
+711,M1GGCR,hi,1,notInterested
+712,1GJPGR,who are you to message medont message me get lost first,4,greeting
+713,53T1KY,llr,4,notInterested
+714,4AP665,k,1,whoAreYou
+715,L25BG9,no say,2,greeting
+716,DK1E3C,ok,5,whoAreYou
+717,SBQZ44,lekin mere pass draving lision nahi hai,0,greeting
+718,J0XZ2W,kk,3,greeting
+719,KJ81D7,which area bro,3,greeting
+720,MKLRQR,hi,3,notInterested
+721,E000HF,your location of branch,0,whoAreYou
+722,SH6XR3,thanks,5,greeting
+723,1R9KCY,bye,5,greeting
+724,MDBMGD,hii,5,notInterested
+725,L85U58,kk,0,greeting
+726,083TIY,near by loction,2,location
+727,K8JNRE,hii,2,greeting
+728,KB5UI6,hi,5,location
+729,5L8EYD,gn,2,greeting
+730,M1TU4A,ok,0,whoAreYou
+731,22QESY,hi,5,whoAreYou
+732,LNC1FM,kkkk,5,whoAreYou
+733,058INJ,ok,1,greeting
+734,OW1ZTF,hi,2,whoAreYou
+735,JZJE4M,hi,4,dontMeetRequirements
+736,F69M16,hi,4,greeting
+737,72CJBQ,hii,5,notInterested
+738,PTY2SU,mere pass paise nhi,3,greeting
+739,QFQHPJ,sir i had already worked here i dont need food delivery orders,1,location
+740,U315PW,hi,2,whoAreYou
+741,6HH5JM,where,3,greeting
+742,WSRNNJ,m not interested for delivery jobs thank you,2,whoAreYou
+743,8AJTE1,ok,4,dontMeetRequirements
+744,DE9TME,ya but i dont have license,4,notInterested
+745,668SMT,which location,4,greeting
+746,ASW8PM,i am not ready to deposit money,1,whoAreYou
+747,UWSBSO,hi,4,greeting
+748,GM823K,get lost,4,greeting
+749,AUO7TV,just llr,3,notInterested
+750,JBEKLY,ok,2,greeting
+751,ROBBWG,hi,5,greeting
+752,MVKBP0,hi,4,greeting
+753,LF3WM8,ok,4,whoAreYou
+754,VUZ3LI,i dont have bike insurance is it kk,5,dontMeetRequirements
+755,03EVKM,konsi jagah,0,notInterested
+756,LMEQNF,hi,4,notInterested
+757,5YAMLA,ok,2,notInterested
+758,T5AAU4,no bike,5,dontMeetRequirements
+759,TNB5JK,sorry i dont have bike thanks for u information,2,notInterested
+760,1Y52T5,ok,3,whoAreYou
+761,8KDPYK,where location,4,whoAreYou
+762,WBUO8G,where is it,2,whoAreYou
+763,L29ULU,ok,3,notInterested
+764,MKDVO6,hi,0,whoAreYou
+765,56JWJO,address 0lz,0,whoAreYou
+766,NMIYP3,ok plz send me the above address,1,dontMeetRequirements
+767,PQPQ56,hii bro,3,greeting
+768,KRCXPF,ok,4,notInterested
+769,PESEJK,hello,5,greeting
+770,W4VRGR,kiddar,3,greeting
+771,NWAKGU,sir i have no bike,5,notInterested
+772,EB08CX,were,0,whoAreYou
+773,HTX8QN,ok,3,whoAreYou
+774,K51EKX,hi hello,2,greeting
+775,DI76HP,ok,3,notInterested
+776,OOMCAB,you have opening in which city,0,dontMeetRequirements
+777,VD06G0,hi,1,whoAreYou
+778,UQAMFP,hello,4,whoAreYou
+779,AMX3AE,but what will be the job location,4,dontMeetRequirements
+780,GK8B76,bike ledhu,2,whoAreYou
+781,1KW9GC,k,1,whoAreYou
+782,0L9FZ9,adras,0,greeting
+783,XUUI3U,ok,4,greeting
+784,DEZ7FD,driving license,1,greeting
+785,RP1MAW,ok,4,notInterested
+786,YAWLLY,hi,4,notInterested
+787,LQWSR7,ok,5,notInterested
+788,31EKKV,hiii,3,whoAreYou
+789,120CA0,i have ll,1,whoAreYou
+790,80NQQK,get lost,5,greeting
+791,VO5GN9,kaha par hai job sar,2,notInterested
+792,WOBNOM,learning,1,location
+793,QNIZLS,hi,5,location
+794,6KJLF8,bhai,0,whoAreYou
+795,6X73NK,hello,0,dontMeetRequirements
+796,1GC8FT,right now i dont have licence and bike,3,greeting
+797,ENSAO4,ok,3,whoAreYou
+798,O98G2O,hi,5,notInterested
+799,CLMHYV,ledhu,1,notInterested
+800,VKQOUV,where,2,whoAreYou
+801,D4SZRF,i dnt have bike right now when i ll get it i ll cum to you guys,4,location
+802,KZGXDN,hi,1,greeting
+803,CIGNCP,under process,2,greeting
+804,7DGUW1,hi,5,greeting
+805,PRHF2W,kahapar hai job,4,notInterested
+806,RPWUOA,thanks for your services im not interested for this job,3,notInterested
+807,L3Q12A,plzz stop it,3,whoAreYou
+808,6C7EMT,sorry nothing driver license,3,greeting
+809,MN1NEK,k,1,whoAreYou
+810,1UGE90,thank you for your offer,5,whoAreYou
+811,AIIM0H,where are,3,greeting
+812,LZHZMW,ok,4,location
+813,RZ3BM3,hi,2,greeting
+814,LGXWQU,hy,0,notInterested
+815,UIAJR1,gud nyt,3,notInterested
+816,RA8BI4,good morning,0,whoAreYou
+817,2EJDVD,hi2,3,greeting
+818,2L7ANU,can u share the address 1st,3,greeting
+819,PMGGLP,hi,5,notInterested
+820,89QVKV,no,4,greeting
+821,Q8G11X,hi,1,whoAreYou
+822,AB5GG0,thanks for ur information,1,notInterested
+823,3ARUG4,hy,5,notInterested
+824,1R9FR2,ok,5,whoAreYou
+825,ZSRTNU,hii,2,greeting
+826,JV6G9B,no bike,2,whoAreYou
+827,4RWUEH,sur good afternoon,2,greeting
+828,AB4Z9F,okk,1,whoAreYou
+829,XG1D89,hii sir,4,greeting
+830,A643NC,hii,2,whoAreYou
+831,Q7CR5F,swiggy dont need,5,notInterested
+832,Z1GOAN,nice,3,whoAreYou
+833,J5JEBX,okk,4,dontMeetRequirements
+834,42263A,yeah,1,notInterested
+835,VCM37D,ohk,1,whoAreYou
+836,CF5VNJ,i will refer one num so send this msg to him,5,greeting
+837,V8T1YY,hi,4,notInterested
+838,HFTGDV,dont send fake,3,dontMeetRequirements
+839,2HK3UK,okk,0,notInterested
+840,9P9P3E,ok,4,dontMeetRequirements
+841,R3GHDI,hii,3,greeting
+842,ROIJ08,hi bro,0,whoAreYou
+843,Q0RHHA,tq,5,greeting
+844,V2V7CH,thika muchkondu stop madu aste,0,notInterested
+845,23TQ9I,hi how are you,4,greeting
+846,D9WNUU,kk,4,greeting
+847,DB5QK2,hi,4,greeting
+848,K1TR01,ok,2,dontMeetRequirements
+849,MQNET4,hlo,5,notInterested
+850,77YCXZ,hi,2,notInterested
+851,TL03TM,ok,3,whoAreYou
+852,TKRCL3,thanks for ur support,3,greeting
+853,KCAAX6,1yes,5,notInterested
+854,OY7519,hello vahan,5,notInterested
+855,KPK1YE,ok,0,whoAreYou
+856,P2YI8N,hi,4,whoAreYou
+857,RZW802,but dont vehicle in my castady,2,whoAreYou
+858,GL001S,ok,0,whoAreYou
+859,N9HHXU,haiii,4,greeting
+860,DD2HR7,kk,1,dontMeetRequirements
+861,O4EO7K,ok,1,location
+862,IOU22D,hai,1,greeting
+863,NLH27I,ok,4,notInterested
+864,LRVASC,kormangala,4,notInterested
+865,PQ0PQF,im recently applied i have lr license,4,dontMeetRequirements
+866,8SLBWY,dont msg,2,greeting
+867,XEOBIR,okį,5,whoAreYou
+868,8YGBE9,gn,1,whoAreYou
+869,HQAJ60,okk,5,whoAreYou
+870,I635OX,no,3,dontMeetRequirements
+871,FA3NYQ,ok,3,greeting
+872,DLEYE3,k,1,notInterested
+873,NT9KP3,but dl has given for renewal,4,location
+874,6ZO5WR,which place,3,greeting
+875,AINH4A,hi,4,greeting
+876,VHVPHP,gn,5,greeting
+877,4G0EFA,hii,3,notInterested
+878,L2VSOV,only driving license,1,greeting
+879,ESPYEB,hi,2,greeting
+880,6KXGK4,hii si,1,notInterested
+881,5RABDO,bike nhi hai,0,greeting
+882,RWVLOP,hii,1,greeting
+883,R6MKLZ,no two viller iam very sorry,5,dontMeetRequirements
+884,UMTTR5,nik siggu leda ra okasare chepthe,5,whoAreYou
+885,FHYYR8,ok,5,whoAreYou
+886,84BPWS,hi,4,greeting
+887,THEBFW,mere bhai mujhe job nhi chahiye,5,whoAreYou
+888,56QRXV,how are you,4,greeting
+889,LB1I7M,helloo,3,location
+890,JKCOA9,nonono,0,whoAreYou
+891,VHSJD4,ok,1,whoAreYou
+892,5IOFHA,location please,4,greeting
+893,0TJCZM,sorry,1,greeting
+894,TPYIWA,gn,2,greeting
+895,FGOSK2,cheatinh,2,whoAreYou
+896,BKOHUW,hi sir,4,notInterested
+897,7OI8D8,hhi,3,notInterested
+898,H5EPK4,sry,0,greeting
+899,YO0F23,bike ledhu,4,notInterested
+900,SB6F83,nonsense,3,greeting
+901,GKJ4HG,hii,4,notInterested
+902,KRF317,den go way,0,whoAreYou
+903,XA8AC0,i dont have lisence can u manage to join as delivary boy,3,greeting
+904,DQICVI,which place,2,whoAreYou
+905,7BFT6R,hii,4,whoAreYou
+906,VTW0AC,ohk,0,notInterested
+907,GL9YHY,ok,4,notInterested
+908,UUXV60,hii,2,dontMeetRequirements
+909,FAPTWT,acha,0,greeting
+910,Y3VD3H,hi,1,notInterested
+911,FV5CEZ,ok,4,whoAreYou
+912,8XIS0Z,hai,1,whoAreYou
+913,KRNXXH,good night,5,dontMeetRequirements
+914,7WH9BN,nothing,3,greeting
+915,0BQHVR,sir,0,whoAreYou
+916,XOLZUG,2not now i will text u,5,greeting
+917,OHD766,hi,1,notInterested
+918,U92MRP,i didnt dl i have ll,3,greeting
+919,HD3IO9,ok,1,greeting
+920,13MA0M,ok,1,whoAreYou
+921,I5GFWF,ok,2,greeting
+922,A1HKKI,good morning,2,whoAreYou
+923,MT0NNG,hii,2,greeting
+924,NEVC54,ok k,1,location
+925,LDP9HF,how r you,0,notInterested
+926,POIPGV,wer location job,3,greeting
+927,LPOI4C,can i now location of job,0,greeting
+928,HDM0SX,i dont have bike or license,5,notInterested
+929,GB517E,hiii,5,greeting
+930,3HA95L,hello,2,greeting
+931,OCH5QW,hi,5,notInterested
+932,25FKOM,or kaise hai,3,greeting
+933,0017JR,hello,3,whoAreYou
+934,3Y99E2,hi,0,notInterested
+935,2GKE4I,after 10 days am getting my ll,0,whoAreYou
+936,U9G3L5,hello,3,whoAreYou
+937,L72WS4,good morning happy friday,3,greeting
+938,KWRJFZ,kkk,0,notInterested
+939,N6NJQH,lr undi,2,location
+940,JVO7OY,but i dont have buke,5,notInterested
+941,KP8W7J,oko,5,notInterested
+942,5GILMK,hi,0,notInterested
+943,UK8957,no,1,greeting
+944,2U4FB1,but i have llr,4,notInterested
+945,UF7LJJ,okkk,5,notInterested
+946,85FQKG,hi,2,greeting
+947,DD7USB,శభదయ,5,notInterested
+948,41815K,naku bike ledu sar,1,greeting
+949,HPJ8KT,hello,2,whoAreYou
+950,OCQDXE,hello,1,whoAreYou
+951,QBM9KT,police complain karti hu ruk abhi,5,whoAreYou
+952,MEPEXN,hi,4,dontMeetRequirements
+953,O24RQR,hlo gm g,5,greeting
+954,Q2Q5MS,dont send a msgs,1,greeting
+955,KIQISH,kk,1,whoAreYou
+956,RTS837,i dont have a licensed,3,greeting
+957,DZO8B3,hai,4,notInterested
+958,7FNJWO,hii,5,notInterested
+959,QNTTCV,where is ur office,5,greeting
+960,0PQ5GT,ok,5,whoAreYou
+961,38KBHU,1but i have an l l r,0,whoAreYou
+962,W1D1Y1,llr,4,dontMeetRequirements
+963,L9W05E,location kha pr,2,greeting
+964,WCMU5H,hi,5,notInterested
+965,0BLG1A,ok,0,dontMeetRequirements
+966,NRLFUK,good morning,3,greeting
+967,UX721Z,ok sir,0,greeting
+968,7ZV2ZC,gm,1,location
+969,67953D,ok,5,notInterested
+970,HOVVFP,hii,1,notInterested
+971,PL2V5D,how are you,4,whoAreYou
+972,JZ44J2,hii,0,greeting
+973,G9UVT1,no,3,whoAreYou
+974,AED848,ok,3,greeting
+975,CT13C0,work location,0,greeting
+976,DNUR6L,good morning,3,notInterested
+977,PRAIA7,hi,3,greeting
+978,2DGOTX,ok,3,greeting
+979,T744N8,hi,2,greeting
+980,C0Z5DM,work location,0,location
+981,6TDVCG,i nt have dl,0,whoAreYou
+982,GPYC7A,gn,4,whoAreYou
+983,68VYHI,okk,2,notInterested
+984,P65502,ok,5,greeting
+985,X8WB05,ll is there,3,whoAreYou
+986,T2AGJV,thanks foe ur information,1,location
+987,O7CFAD,hallo,0,greeting
+988,U39RRD,ok,2,notInterested
+989,54P80J,hii,2,greeting
+990,V9HA5U,hi,0,notInterested
+991,Q8NC3Z,sir ok but nodriveng lince no pancaed,0,whoAreYou
+992,M226FO,okk,3,dontMeetRequirements
+993,P7FSAI,plz didnot send me message plz stop i am not interested,5,notInterested
+994,W4XCV5,who,1,dontMeetRequirements
+995,H4450O,thnaks bro,3,greeting
+996,BD4CSY,tanq,2,notInterested
+997,6AGA6D,llr,2,notInterested
+998,PCLHAA,okay,3,greeting
+999,RV83UW,if you are computer so i block you,1,whoAreYou
+1000,KCGIRE,which location in job,3,whoAreYou
+1001,2QYU5Y,hi,1,notInterested
+1002,W28AV1,sorry sir naku bike radu,4,notInterested
+1003,RJO2YD,hi,2,greeting
+1004,AKA188,ok,0,whoAreYou
+1005,G0YTF6,how r u,0,notInterested
+1006,U46CVI,hii,2,notInterested
+1007,VGXE1C,ok,4,notInterested
+1008,D179FV,license ny he,4,notInterested
+1009,CCGCRF,ok,5,whoAreYou
+1010,P72J31,hi,4,notInterested
+1011,XFOTY8,good morning have a nice day,5,whoAreYou
+1012,FR38MF,hello,3,location
+1013,IRZGRB,hii,0,whoAreYou
+1014,A01YM4,hi good morning,1,notInterested
+1015,CIWI4T,hiiii,2,greeting
+1016,REE7P9,but i have driving licence,3,notInterested
+1017,ZEFB5A,hi,5,greeting
+1018,RIZC3T,i have learning license,0,notInterested
+1019,DO37RG,ok,1,whoAreYou
+1020,7FP5J7,learning license,3,whoAreYou
+1021,5QUNWY,sorry i am not interested now,1,whoAreYou
+1022,VPKPIC,where i should come,0,whoAreYou
+1023,AUKHAR,hi,4,greeting
+1024,7KW0FL,hi,0,greeting
+1025,TSOCHE,okay,5,greeting
+1026,DS92QJ,ok sir,1,greeting
+1027,MR1BZE,hi sir,3,dontMeetRequirements
+1028,6IL510,i dont have license,3,greeting
+1029,Z1BBP1,k,0,whoAreYou
+1030,E11MWG,hi,3,dontMeetRequirements
+1031,9D4Y64,k,4,whoAreYou
+1032,HQWDXL,ya but i have llr,4,whoAreYou
+1033,COQGDV,hi,0,greeting
+1034,QPXXDC,im not interested in swiggy,3,whoAreYou
+1035,G131JB,ok,1,dontMeetRequirements
+1036,X73HPY,ok sir,1,greeting
+1037,N6CG21,thanks,1,notInterested
+1038,TAAJV9,i have learning license only,0,whoAreYou
+1039,SPEZ29,hi,5,whoAreYou
+1040,5E1UXA,sorry,5,whoAreYou
+1041,V9Q6RP,na location change chesaru,3,whoAreYou
+1042,F0SL79,hello,4,whoAreYou
+1043,DGD773,sorry,2,whoAreYou
+1044,JDBKFQ,hello sollu pa,5,whoAreYou
+1045,SY7UB4,kk,0,notInterested
+1046,6VG42M,thank you sir but i dont have a bike,1,whoAreYou
+1047,R12ZW7,hlo,4,greeting
+1048,DFWT8G,okk,1,dontMeetRequirements
+1049,KM74WF,tq,2,greeting
+1050,DDSON4,license nahi hai,2,greeting
+1051,WB6CAM,i want job but i have lr liasen,3,greeting
+1052,N0TDBQ,hello,3,location
+1053,DYD4MX,hello,2,greeting
+1054,IULHDF,ok,0,greeting
+1055,KNM96V,i do not have a bike license,4,notInterested
+1056,L4YW36,ok,2,whoAreYou
+1057,4KLH28,ok,3,whoAreYou
+1058,4IRB9W,thanks,3,whoAreYou
+1059,7BH1QX,i dont have a bike not even driving licence,0,whoAreYou
+1060,2SI7HJ,k,4,greeting
+1061,HB3IIR,hi,1,greeting
+1062,XS8GIU,hi,3,greeting
+1063,PX6QJF,hi,1,whoAreYou
+1064,DJAQN6,hi,1,notInterested
+1065,T6WR9P,hi,5,notInterested
+1066,OEIZXM,thanks,4,greeting
+1067,THGW0X,yes sir i didnt d l n bike,2,location
+1068,GJM13I,hi,4,dontMeetRequirements
+1069,XVAEMH,job location wr r u,2,whoAreYou
+1070,QDLS2Z,hi,1,greeting
+1071,ZSPF88,okay,5,notInterested
+1072,ZV0FPS,okh,3,whoAreYou
+1073,K88FOL,stop messaging,3,whoAreYou
+1074,VN9S16,hii,2,greeting
+1075,SWKWY7,greatgood night,2,whoAreYou
+1076,QEQ1PJ,ok,5,whoAreYou
+1077,37OLG4,hell sar,4,notInterested
+1078,UI5CV5,which location are their,1,whoAreYou
+1079,IN20W3,learners licence is available,5,whoAreYou
+1080,MTXKGZ,bro not interested,0,whoAreYou
+1081,WD0C2T,hello,3,notInterested
+1082,C1PIYR,sir,1,whoAreYou
+1083,P07N01,hi,5,notInterested
+1084,I9FQCF,sorry sir i dont have bike,4,notInterested
+1085,QTCXZ3,hi,3,whoAreYou
+1086,ZOJGB7,sir but i did not have pancard and bank account,0,greeting
+1087,FLIQBX,ok,0,whoAreYou
+1088,HT27EN,kelasa elva,0,greeting
+1089,R0O6N5,ok,5,greeting
+1090,L7LKT2,ledu,3,greeting
+1091,UANW3N,sir,1,notInterested
+1092,7USLC2,hi,5,location
+1093,FKFA1L,hi,3,greeting
+1094,B9RDD2,hello,1,whoAreYou
+1095,FYZWM5,k,4,whoAreYou
+1096,V6LDC1,good morning,0,greeting
+1097,164V1L,hello,2,notInterested
+1098,UF2EUD,ok,5,whoAreYou
+1099,BKKXDG,no,4,notInterested
+1100,E5F6CQ,no licence,2,whoAreYou
+1101,QCMLGN,hii,5,whoAreYou
+1102,9PEM65,thank u,5,greeting
+1103,8BSIMO,hi,2,whoAreYou
+1104,03TAJV,oky,0,greeting
+1105,CF6NIV,sorry,4,notInterested
+1106,MUB3FU,hi,1,greeting
+1107,E5JXZL,hi,5,notInterested
+1108,MJRLEM,abhi nhi phir kbhi,2,greeting
+1109,1ZCQBV,tell me job location,2,greeting
+1110,09E45T,hi,4,greeting
+1111,IUVLBI,good night,3,whoAreYou
+1112,5QOVNP,okey sir,0,greeting
+1113,ON0YEE,kaha he job,2,notInterested
+1114,FQDGK7,hii,3,whoAreYou
+1115,KHTZER,hiii,3,dontMeetRequirements
+1116,LM326C,hi,2,notInterested
+1117,H3MW11,hiiii,0,notInterested
+1118,DUGYJD,location,2,greeting
+1119,VPXQHL,mai bike nai chalata hu,1,notInterested
+1120,3ZYOGB,hey will u just stop this,3,dontMeetRequirements
+1121,3HZYA4,ok,3,greeting
+1122,T9WL4I,hlo,1,notInterested
+1123,OC3DV7,i have no vehicle,5,dontMeetRequirements
+1124,YJ4537,for this,0,whoAreYou
+1125,IP15RQ,ok,1,whoAreYou
+1126,O4FJSW,hello,5,greeting
+1127,HDXI1F,ok,1,whoAreYou
+1128,94JJAW,gn,1,whoAreYou
+1129,WX6AGH,okay,1,notInterested
+1130,F3EA2C,ok,2,greeting
+1131,ADZCIU,learning license,0,greeting
+1132,0CWUPT,no need thank you,3,dontMeetRequirements
+1133,F474R2,hi,3,whoAreYou
+1134,FM3QFK,where is kasturi nager,0,notInterested
+1135,HE1X8Y,job location,0,whoAreYou
+1136,RQ6SL0,ok,2,greeting
+1137,JAY0T6,hii,3,dontMeetRequirements
+1138,086N43,hi,0,whoAreYou
+1139,PR8UMM,thanks for the info,4,location
+1140,2KFWIG,hi,5,notInterested
+1141,H79VAQ,i dont have bike and dl bro,0,notInterested
+1142,MPJIAH,hi,4,notInterested
+1143,AGANXR,stopped,0,greeting
+1144,33PLHY,k,4,greeting
+1145,NAA66N,ok,5,notInterested
+1146,YHKPQE,kindly don text to this number,5,notInterested
+1147,046WH0,hl,3,notInterested
+1148,PKZ99B,mere pass bike or license nahi hr,0,greeting
+1149,FZUS1L,kindly don text to this number,4,whoAreYou
+1150,IMGPVX,i dont want to delivery jobs,0,greeting
+1151,XIV6P6,good night,5,notInterested
+1152,EN3611,but i cant pay rs500,2,notInterested
+1153,EOM2H8,i have no bike,4,greeting
+1154,1V696S,ok,3,whoAreYou
+1155,6G95DC,hiii,3,notInterested
+1156,SLVFSA,kaunsi si jagah job milega,1,whoAreYou
+1157,7ZUAO9,hello,0,whoAreYou
+1158,235F9O,baik nhi hai,5,greeting
+1159,B7ZJ9U,ok,2,whoAreYou
+1160,O9JH2A,hi,0,greeting
+1161,ZSLLF0,hello,5,whoAreYou
+1162,Z8W1PA,hiii,3,greeting
+1163,28WE95,i get licensee in 1month,4,notInterested
+1164,CXE2QX,hello sir,4,greeting
+1165,URKJO7,i have no bike,3,notInterested
+1166,YGG7LW,chal nikl,3,greeting
+1167,DK96EP,location vasai hai,2,whoAreYou
+1168,V0UY6B,hey hi,0,whoAreYou
+1169,4UXIZP,present bike ledu tesukovali,2,notInterested
+1170,UFF6SY,hiii,5,whoAreYou
+1171,ZIYE6F,hi unnati,4,whoAreYou
+1172,IF4MIE,ok,3,notInterested
+1173,9M8W8Z,which area sir,4,location
+1174,DL62C5,ok,2,notInterested
+1175,LSB6D1,hii,2,greeting
+1176,KWXA1A,acha ji,2,notInterested
+1177,UZTJJN,hi,4,whoAreYou
+1178,PHC311,i am going to block you,5,greeting
+1179,O88VMG,hi,0,location
+1180,OCSV3I,sir i dont need delivery jobs thats it,2,whoAreYou
+1181,LGC08Q,gn,3,location
+1182,I454KT,hiii,3,notInterested
+1183,O509X8,hi,0,greeting
+1184,GYE4YW,ok,5,whoAreYou
+1185,A8VQ26,am not interested,3,whoAreYou
+1186,TIF3RR,hi,5,notInterested
+1187,AO7FQE,location,4,whoAreYou
+1188,QVA0ET,hiii,4,whoAreYou
+1189,ZVK64K,where job,2,whoAreYou
+1190,52YKF9,but i dont have driving licence,3,whoAreYou
+1191,3IY450,good morning,0,greeting
+1192,GF2NBM,kk,2,greeting
+1193,2RBDA7,hi,1,greeting
+1194,TA5WVC,ok,3,greeting
+1195,MUQDUS,address kaha hai,4,greeting
+1196,ADNP05,ok,4,whoAreYou
+1197,02J6AH,ok,0,notInterested
+1198,DZKRA8,accha,5,whoAreYou
+1199,8KPBCZ,hi,0,greeting
+1200,HNHLTX,hi,4,whoAreYou
+1201,PRULYV,hiiii,5,notInterested
+1202,6CYRQ4,driving licence nahi hey,1,greeting
+1203,GV9EL7,hi,5,dontMeetRequirements
+1204,LLW7ZI,hello sir i dont have a bike but rest all documents i have it sir,0,notInterested
+1205,GJDMDT,oka,2,whoAreYou
+1206,LO5PRH,good morning,2,location
+1207,YTCOVO,ok,5,whoAreYou
+1208,17W2WV,k,3,notInterested
+1209,85BQN9,i have learner license,2,dontMeetRequirements
+1210,53JK8R,thank you,1,greeting
+1211,Q9MIC0,nko,5,notInterested
+1212,OHC7GR,hiii,3,whoAreYou
+1213,DU84G4,ok,5,whoAreYou
+1214,37DZZ1,hello sir,0,greeting
+1215,OY3IWJ,i have no bike,2,whoAreYou
+1216,FEYRJN,i will no bike dl,4,greeting
+1217,UTBL5H,okay,1,dontMeetRequirements
+1218,SUDVZZ,no i say near r t nagar,1,whoAreYou
+1219,IUDZU7,i no redy,2,notInterested
+1220,52YK6C,hi,1,notInterested
+1221,O8F6MU,job kha pila gi,0,location
+1222,R6HY0F,kk,2,whoAreYou
+1223,TB33WO,hi,1,greeting
+1224,XMB347,k,3,notInterested
+1225,RSUN4J,hello,0,greeting
+1226,5JRG68,bike nahi hai,3,notInterested
+1227,TWWXCF,where is u office,2,notInterested
+1228,X99JKG,hii,4,notInterested
+1229,N6XVD7,hello,1,greeting
+1230,Y5YDJB,area,2,notInterested
+1231,CUUCVT,okay,3,whoAreYou
+1232,8DAAR9,good night,0,greeting
+1233,NIDT4A,i dont have a pancard even,2,greeting
+1234,O0XDID,hi,0,greeting
+1235,4M849W,hi,0,dontMeetRequirements
+1236,S35OKB,hello,4,whoAreYou
+1237,CQOP92,hi,0,dontMeetRequirements
+1238,FN5Z5W,ok,2,dontMeetRequirements
+1239,HYLH1S,ok,5,whoAreYou
+1240,95JNGU,okay,1,location
+1241,8D40AQ,we accept llr license,3,whoAreYou
+1242,EQKFND,sir but mere pass bike aur licence nahi hai,5,whoAreYou
+1243,Y5125C,hie,5,notInterested
+1244,9LX11E,ya s but i have only ll no dl,1,notInterested
+1245,JI7V0E,where is kasturi nagar,1,whoAreYou
+1246,U1YL8G,i dont have bike and license,3,notInterested
+1247,XTUKQ8,ಬಳಗನ ಶಭದಯ ಗಳ,5,notInterested
+1248,1BAJTY,hi,2,location
+1249,S6FC2N,ok,3,whoAreYou
+1250,NLVBNZ,dont send am not interested,5,whoAreYou
+1251,374CIS,good morning,5,greeting
+1252,EMQRX0,oki,3,whoAreYou
+1253,CKIUDA,i dnt have a dl,5,dontMeetRequirements
+1254,08WGIU,fine,4,notInterested
+1255,WEFZO2,sir i dont know driving,5,greeting
+1256,CVZV5B,job where are you,2,whoAreYou
+1257,ZJV5QL,get lost,0,greeting
+1258,UW2T30,hii,1,whoAreYou
+1259,7R8POZ,hi sir,5,notInterested
+1260,92L1PR,i dont have driving licence,2,greeting
+1261,F3OFHG,iam not interested in delivery job,4,whoAreYou
+1262,7MNRCQ,hii,5,greeting
+1263,ZKQLKO,where is the job location,2,whoAreYou
+1264,LL6AT9,ohk,3,greeting
+1265,NC1HSB,ok,4,dontMeetRequirements
+1266,84N0S8,hello sir,0,notInterested
+1267,1ACHIO,bt mere pas vehicle nh hai,1,dontMeetRequirements
+1268,HVNNUY,okay,3,whoAreYou
+1269,IGO7F2,k fine,3,whoAreYou
+1270,OA6JII,hi,1,notInterested
+1271,HB14TI,where are you from in job,0,greeting
+1272,AJ4WSI,hello,5,greeting
+1273,XPMG0A,hii,0,whoAreYou
+1274,I7WRIB,ok,0,whoAreYou
+1275,KY56LC,i have no bike,0,whoAreYou
+1276,JMJTL9,bro wr i should come,4,notInterested
+1277,UJ3XPA,hi,4,notInterested
+1278,1XSB47,thank you sir,1,whoAreYou
+1279,DCKF5V,morning,3,greeting
+1280,O1ZXH9,soory i have no driving lance,0,greeting
+1281,WC34RH,hi,2,whoAreYou
+1282,19EF4D,yes im interested but dont have a two wheeler sir,0,greeting
+1283,XULZHJ,k,0,whoAreYou
+1284,79N6FZ,ok,2,dontMeetRequirements
+1285,7AP1SC,oky,1,whoAreYou
+1286,S820CU,ok,2,greeting
+1287,KH7EKG,hai,2,dontMeetRequirements
+1288,I504LY,i hv ll,0,notInterested
+1289,1VXAIG,ok thaynku gd night jab par,3,dontMeetRequirements
+1290,PNFFMO,i have ll,5,whoAreYou
+1291,7CHB8S,sorry,4,notInterested
+1292,IMHT87,hii,2,whoAreYou
+1293,QN5CN0,hii,3,greeting
+1294,I3ZYYK,nahi dena mujhe,0,whoAreYou
+1295,8KYUB7,okay,1,greeting
+1296,5GSHEF,hi,5,greeting
+1297,RO1WVH,how r u,3,greeting
+1298,89RC51,in which place,5,dontMeetRequirements
+1299,IKZMAC,hi,3,greeting
+1300,L6U8FL,hi,5,notInterested
+1301,TEKXZF,job address location mumbai pune,0,notInterested
+1302,4AIT4Q,hi,5,whoAreYou
+1303,LFRUV9,ok tq,1,greeting
+1304,OOUXDZ,ok,2,greeting
+1305,0MJ11H,ok,3,notInterested
+1306,HDUAYN,kidar apko milna hi,4,notInterested
+1307,Q8W3KR,merai pass bike nayi hai,4,whoAreYou
+1308,2TBMES,not both,0,notInterested
+1309,KJAYWQ,hello,1,greeting
+1310,FEZ7HC,hello,1,whoAreYou
+1311,6FUDO4,hi,3,whoAreYou
+1312,5N1PIQ,how r u,5,greeting
+1313,8VGRFQ,wokey,3,greeting
+1314,J844OH,wish,2,greeting
+1315,GVOU17,hello,0,whoAreYou
+1316,558034,ok,0,greeting
+1317,NSP1K9,kk,0,notInterested
+1318,0UEJSS,sry,4,greeting
+1319,RJNLY5,sir u r place bangalore,2,greeting
+1320,DD659B,hi sir,4,greeting
+1321,VIKEHJ,ok,5,whoAreYou
+1322,79BF40,ok,1,greeting
+1323,Y7365G,hi,2,whoAreYou
+1324,KZMVCM,hi,1,greeting
+1325,M9NCE2,yeah,0,whoAreYou
+1326,4FLHEM,hi,2,whoAreYou
+1327,WXGVI4,kkk,0,dontMeetRequirements
+1328,LNUI4U,lening license,4,greeting
+1329,CN6P4L,good morning,2,notInterested
+1330,FL9D23,hey,5,greeting
+1331,F17ZYY,ok,5,notInterested
+1332,CW282B,marathi,3,greeting
+1333,RXVCEQ,okk,1,notInterested
+1334,1NTVZJ,delivering location chamrajpet hanumantha nagar srinagar,4,whoAreYou
+1335,GKAYKW,hii,2,greeting
+1336,I77DFN,ur location,2,dontMeetRequirements
+1337,LMMZOJ,where it is,0,notInterested
+1338,ENCFMY,i dont have bike,0,greeting
+1339,3TTNA5,ok,5,notInterested
+1340,WWYUHK,learning is dhare,1,dontMeetRequirements
+1341,HX6QXU,i can not write,5,whoAreYou
+1342,DH6XOD,ohk,4,location
+1343,K9L2A3,ll,2,greeting
+1344,WXSCUO,i have a no bike sir,2,greeting
+1345,895JA8,hiii,1,whoAreYou
+1346,VPQ0GM,hi,0,whoAreYou
+1347,UGZO97,hi,5,whoAreYou
+1348,06R0XI,hi,4,whoAreYou
+1349,V9IL7J,yas,0,whoAreYou
+1350,MMN7P5,where the place,1,whoAreYou
+1351,YN2D10,sir,3,notInterested
+1352,COBCDL,bike nhi hai mere pass,2,notInterested
+1353,478QTE,hiii,5,greeting
+1354,YP3W2G,hi,5,notInterested
+1355,MY6FWO,1yes but present learning licence i am having,1,whoAreYou
+1356,4K6RXR,hello,5,greeting
+1357,1R2IPY,hiii innappndra,1,greeting
+1358,W1AE3I,hi,4,notInterested
+1359,KEFE0P,hi,1,dontMeetRequirements
+1360,NP0EOJ,but i wont have dl,3,whoAreYou
+1361,RZ4ZFZ,mere pass bike nahi hai,2,whoAreYou
+1362,3ZCLB3,nahi,4,greeting
+1363,R1VHRX,hi,0,notInterested
+1364,S74XN6,i dnt hav a bike,0,whoAreYou
+1365,3HBNB9,which place,5,whoAreYou
+1366,4VH9C4,hi,3,whoAreYou
+1367,J01QQ8,hi3,3,location
+1368,47QSQU,jai shree ram,4,greeting
+1369,P9IFVW,ok,3,notInterested
+1370,I2IX1I,ok,2,greeting
+1371,9BPZX4,hi hi hi,3,greeting
+1372,1FHH3G,hi,4,whoAreYou
+1373,AT0QDV,were it is,4,greeting
+1374,TYOIL1,ok,5,whoAreYou
+1375,6LVRNV,hi,2,whoAreYou
+1376,18NOXK,but i am student for fybcom i have no licence,3,greeting
+1377,RC36KR,stop,0,notInterested
+1378,FG3AD0,ok,4,greeting
+1379,YDGVDZ,llr,1,notInterested
+1380,UD66D0,ook,2,notInterested
+1381,60BWU7,hi,5,notInterested
+1382,QVFONY,i have only llr license,0,greeting
+1383,F520FD,ok sure,5,location
+1384,M2V3MY,ha,3,location
+1385,TH12ET,good morning sir,4,whoAreYou
+1386,ZR4LPT,sry i dnt hav an bike,1,whoAreYou
+1387,A4L2RQ,hi,4,greeting
+1388,H8JDDA,hi,1,greeting
+1389,NUM69D,acha,4,whoAreYou
+1390,S95CD9,i have ll,5,notInterested
+1391,DUXJTY,both are too far i cant,3,notInterested
+1392,HE3CNK,wear your office bro,2,dontMeetRequirements
+1393,3RSTL8,hiii,4,notInterested
+1394,6E05NH,ll is ther,5,whoAreYou
+1395,5ZTPOG,kaha par has job,1,greeting
+1396,125VTF,hi hi,0,whoAreYou
+1397,1W1QG5,ok,5,notInterested
+1398,3G2THN,hi r,1,greeting
+1399,M37VXW,okay,4,notInterested
+1400,CTYKF2,ok,4,location
+1401,SCODG1,ok,3,notInterested
+1402,RCK7RW,i have llr next week lo licence vasthadi,2,whoAreYou
+1403,59C1L2,morning,5,whoAreYou
+1404,VYVZZX,which location,1,whoAreYou
+1405,WFIOJ9,ur ofice adress,2,greeting
+1406,BQDNN3,sorry,1,location
+1407,OYWTWP,no,1,whoAreYou
+1408,UNBFR7,ok,3,notInterested
+1409,P4OPF0,i have no bike,2,greeting
+1410,VI3CTF,thankuuu,4,location
+1411,MP6N06,sir,1,dontMeetRequirements
+1412,OHD91N,no,2,notInterested
+1413,A9TLL4,hi,2,notInterested
+1414,0OAKKF,i dont have licience,4,dontMeetRequirements
+1415,U46291,no thanks,1,whoAreYou
+1416,PS9NBB,hi,1,notInterested
+1417,S4JHKR,ok,0,greeting
+1418,KYZWMM,thank you sir but i dont have a bike,5,whoAreYou
+1419,MIRO8C,where is my location,3,notInterested
+1420,SK816L,were,4,notInterested
+1421,TJ39V4,no,4,notInterested
+1422,6O64I5,ok,4,dontMeetRequirements
+1423,Z55STC,hello sir,0,whoAreYou
+1424,PN0CRH,jus i have llr,1,notInterested
+1425,XAF4BD,ok,0,notInterested
+1426,PQ130E,ok,3,greeting
+1427,NGTHRI,interview kaha deni hogi,2,dontMeetRequirements
+1428,4KZQ0Y,but sir mere pass baik nahi hai kya aap meri helf kar sakate hai,5,whoAreYou
+1429,15UFCJ,ok,1,whoAreYou
+1430,JJUVZD,ok,5,notInterested
+1431,W3LA22,hi,5,greeting
+1432,WRJ8Q8,which place,3,location
+1433,E6LVPV,ok,3,whoAreYou
+1434,RKQX07,byke is next month cmng,3,greeting
+1435,FOUG4I,where is your office,4,dontMeetRequirements
+1436,F2XJYC,hii,3,whoAreYou
+1437,1RH549,ok,3,whoAreYou
+1438,U5V6ND,learning licence,5,greeting
+1439,8UTUZ1,okay,3,whoAreYou
+1440,EKQTM4,good morning sir madam,2,greeting
+1441,OE7SNF,how r u,1,whoAreYou
+1442,ZCO9UA,par mere pass paise nahi he,3,greeting
+1443,I0ISDR,hiii,3,whoAreYou
+1444,76YNKO,k,4,whoAreYou
+1445,8SY3KF,hiii,3,notInterested
+1446,25ZYYK,nahi he,5,dontMeetRequirements
+1447,ZM4ZLD,no,0,greeting
+1448,UFXTB4,sir,4,greeting
+1449,C1OPQ7,hi,1,greeting
+1450,38QAZJ,ur location,5,whoAreYou
+1451,G88MTS,k,1,notInterested
+1452,R8HCBH,ok,3,notInterested
+1453,BX5G1V,where job,0,greeting
+1454,W196LI,photo,5,dontMeetRequirements
+1455,V1COVM,hello,2,notInterested
+1456,IBYHYC,hi i m not looking for,4,notInterested
+1457,EXN27S,hiii,3,dontMeetRequirements
+1458,6AXZ5Q,kk,4,notInterested
+1459,H973BM,its in banagaluru right,5,greeting
+1460,IPCGS7,where is the office,0,greeting
+1461,UE1L7K,sry mam in fathers business,0,whoAreYou
+1462,S7GCMJ,k,5,whoAreYou
+1463,EUAN4X,i dnt think so,0,whoAreYou
+1464,WQH1Z9,hii,1,whoAreYou
+1465,H75M02,hello,1,location
+1466,RTICPJ,ok,0,greeting
+1467,D0S77P,not interested thank you,5,greeting
+1468,BXHB25,ok,1,greeting
+1469,TNGMNZ,kahhpe hy job amrvati,3,whoAreYou
+1470,U87K5V,wr is it,3,whoAreYou
+1471,VHK9ON,ok,4,greeting
+1472,19B8WE,learning license,1,notInterested
+1473,G3YNHD,ok,2,location
+1474,4WSDNA,hello sir,1,greeting
+1475,OV675H,sir i am intrasted bat i have not a baik license is avalebal,5,whoAreYou
+1476,XSN5A5,ok,2,dontMeetRequirements
+1477,P6MAX4,ok,3,whoAreYou
+1478,GE430Y,no,4,whoAreYou
+1479,DFR56M,im back were is your address plz tell me,1,notInterested
+1480,XXYTRP,hi,2,greeting
+1481,1Z2HWA,good morning,4,greeting
+1482,9WTA9Y,i have ll,3,whoAreYou
+1483,S2AXEY,okkky,4,notInterested
+1484,9E4XGW,gd evng,2,whoAreYou
+1485,I6U5ZU,hi,4,dontMeetRequirements
+1486,UIUDTO,no,0,notInterested
+1487,5VOIJP,ok,1,notInterested
+1488,UWTSFR,okay,5,greeting
+1489,HQF1HR,ok,4,greeting
+1490,X45M7H,ok,4,greeting
+1491,EO1LKF,hi,1,greeting
+1492,MIFRVU,were is the place,5,greeting
+1493,CLLF6X,hai,5,location
+1494,U3GQID,hi,1,greeting
+1495,K11O4A,this is for where sir,2,greeting
+1496,PI9IHL,i want to work bit no bike,4,notInterested
+1497,KHS8KE,muze bike chalani nhi ati,2,notInterested
+1498,0HPBOD,prasent learning,4,whoAreYou
+1499,9F8KOD,hii,2,greeting
+1500,D86AJB,hello,5,whoAreYou
+1501,OSZN6B,hi thanks for your message,4,whoAreYou
+1502,5L9I6Q,hii,0,greeting
+1503,7RJSVI,may i know the location,0,notInterested
+1504,F7FYP8,hi,5,greeting
+1505,E2TWWS,ok,4,greeting
+1506,VBVDEM,jai raam ki,2,dontMeetRequirements
+1507,7IR3UF,aur area konsa,1,greeting
+1508,0F4R9V,hlo,2,dontMeetRequirements
+1509,X77W2O,hello,5,whoAreYou
+1510,824QE4,send me kurla office address,0,notInterested
+1511,AGAHAL,hi,5,whoAreYou
+1512,SJZI46,hi,0,whoAreYou
+1513,YYYAYR,ok,0,notInterested
+1514,KDYOXZ,mere pass bike nhi hai,3,greeting
+1515,HE8CGB,good morning,4,greeting
+1516,LQIS1P,hello,5,greeting
+1517,5J64PX,rajajinagar,0,notInterested
+1518,0OWKV0,ok,0,notInterested
+1519,JSGYP6,good morning,0,whoAreYou
+1520,QOED04,actually having learners licenceneed to apply for a drive test,3,notInterested
+1521,NLWFRW,hello,3,notInterested
+1522,1D547R,i know your a software,5,greeting
+1523,EK927B,good morning sir,0,notInterested
+1524,OIR7QX,ok,2,notInterested
+1525,CO8TAM,hi,2,whoAreYou
+1526,T9J4NM,were am doing job,5,greeting
+1527,QGGNUF,k,5,whoAreYou
+1528,NPXIS6,hi,3,notInterested
+1529,T0MXD5,cant you understand what i said,3,greeting
+1530,TTP2CO,ok,5,greeting
+1531,XRLTV1,hello,4,notInterested
+1532,TJ88P0,llr,0,whoAreYou
+1533,I1H9OC,ok sir,2,whoAreYou
+1534,9GLKIF,ok,0,notInterested
+1535,PNGQ38,sorry,4,location
+1536,PV3JBJ,hi,3,whoAreYou
+1537,JHQRPB,kk,1,notInterested
+1538,JZXI9Q,no other office,5,greeting
+1539,RFRN64,give me address,3,whoAreYou
+1540,OPWRI7,gn,2,whoAreYou
+1541,QZSNWW,dont message it,1,dontMeetRequirements
+1542,J75X5G,iam not interested in swiggy,5,whoAreYou
+1543,3NVYJK,but my license is yet to come its gone na work,4,greeting
+1544,H45JGK,thanks,1,greeting
+1545,55P639,hlo,2,notInterested
+1546,CX58AJ,nahi,2,whoAreYou
+1547,FSC297,ok,4,greeting
+1548,OI3I5Y,tq for your response,1,notInterested
+1549,O450R4,i have learning licence l vill get my license in 15 days,2,greeting
+1550,CX2PE3,ok,5,notInterested
+1551,ALPHP7,कट ह,3,dontMeetRequirements
+1552,N3LG7T,i am not interested,3,greeting
+1553,IQM0QR,hii,2,whoAreYou
+1554,9P1FNL,location,4,whoAreYou
+1555,BYHDQU,ha okl,5,dontMeetRequirements
+1556,JOJ8F9,if we dont have driving licence,2,greeting
+1557,8KG50X,anna deposit mado astu amount illa dayavittu nam bitbdi,2,notInterested
+1558,4MP2P8,job konsa state may hey,4,notInterested
+1559,LURWFU,ok,4,greeting
+1560,GR6N9V,hi,1,location
+1561,U359T8,hru,2,notInterested
+1562,AW9623,no le lo,1,whoAreYou
+1563,W8YQNR,thnx to inform me,4,notInterested
+1564,0HC827,hi thank you for your sms,1,whoAreYou
+1565,A4KQLM,hi,2,whoAreYou
+1566,1P6IAB,which area,4,greeting
+1567,UI602D,work location,4,whoAreYou
+1568,UPDFRN,location sir,5,notInterested
+1569,K8DEEZ,okk,3,whoAreYou
+1570,86AD2F,ok thank you,5,location
+1571,Y3DQS3,location,1,whoAreYou
+1572,YAN25P,hi gm,4,greeting
+1573,J77AVL,hi,1,greeting
+1574,BCXRNS,mere pass bike nahi hai,2,whoAreYou
+1575,2P275B,hi,0,notInterested
+1576,310PQ3,hi,0,notInterested
+1577,4KKZ5W,how are you,0,greeting
+1578,0S59LJ,job location,4,notInterested
+1579,21Z3H2,hai,4,dontMeetRequirements
+1580,00JWU7,thank you for,1,greeting
+1581,PGQMW4,i have no bike,2,notInterested
+1582,7U1ACE,hi,4,location
+1583,BH3HOT,sir,3,notInterested
+1584,WDRC9D,ok,2,greeting
+1585,V4HBEQ,hi,1,greeting
+1586,UBWJH6,k,3,whoAreYou
+1587,117U0C,hiis there any vacancy in dilsuknagarpart time,2,greeting
+1588,4UHGMY,hi,1,greeting
+1589,FEVMZO,how are you,0,dontMeetRequirements
+1590,BUB1UM,learning,2,notInterested
+1591,2KFE74,your office where in india,4,whoAreYou
+1592,HG1948,learner licence,4,dontMeetRequirements
+1593,DQSOCO,sir mai delivery ka kaam nhi kar sakta,3,greeting
+1594,YUBP3S,which is nearest to yelahanka,4,location
+1595,Z1MDYC,but no bike no licence,4,greeting
+1596,VUF1NU,receipt hai learning,5,greeting
+1597,9DGD27,sorry i dnt have,3,whoAreYou
+1598,IQN02J,hi sir,0,whoAreYou
+1599,VXRU9K,meanae thoo naa lagta madam,5,whoAreYou
+1600,MSWPRP,i dont have lisence i have only kearning license,1,notInterested
+1601,MJGO8M,learning licence,5,greeting
+1602,5RY1Q9,hai,5,notInterested
+1603,5SRH89,applications fee nai bhr skte,5,location
+1604,5FE2S0,hii,4,dontMeetRequirements
+1605,6ILTPZ,hello,0,notInterested
+1606,RJP3VJ,hi,1,whoAreYou
+1607,TDN2DG,helo,0,greeting
+1608,J5JK3I,but mere pass bike nahi hai,4,notInterested
+1609,H7Z189,hi,5,whoAreYou
+1610,QILVUO,okk mam,5,notInterested
+1611,EELO82,haii,1,greeting
+1612,ZA6147,hi sirmadem,0,whoAreYou
+1613,KMREF9,hii,0,greeting
+1614,J2BGNB,ok,0,whoAreYou
+1615,2D3VE2,tanks,2,greeting
+1616,M2JD8T,hi,5,whoAreYou
+1617,EV4FMW,ok,0,whoAreYou
+1618,1IV8BS,hi friend,0,location
+1619,11CWDO,sorry me biji u,5,greeting
+1620,MO79JO,but i have no bike,4,notInterested
+1621,X6P9MD,learning,5,whoAreYou
+1622,INDZM2,sir,2,whoAreYou
+1623,A3R1ZW,naku bike lisense ledhu bro,2,whoAreYou
+1624,HRM3PX,sir dl no sir,2,greeting
+1625,Q6O4ZY,hiii,5,whoAreYou
+1626,E1HR6M,k thank u,0,notInterested
+1627,FKSHEM,नमसकर,0,whoAreYou
+1628,DDB319,please stay 1000 miles away from me ok,5,greeting
+1629,8S7ILQ,ok,0,notInterested
+1630,ONI2HG,hiii,1,greeting
+1631,D2L1Q5,ok,5,greeting
+1632,HFXRNN,hi,3,greeting
+1633,JHC6KP,hai sir,1,whoAreYou
+1634,IBOPQZ,ok,4,notInterested
+1635,LOKI9L,hi,3,whoAreYou
+1636,R7ZLXP,shut up,5,notInterested
+1637,TRGO9C,hello,5,dontMeetRequirements
+1638,MZVG22,hello,4,location
+1639,BFHL5L,ok,1,whoAreYou
+1640,2URK5R,ok,1,notInterested
+1641,TLKO9W,ok,1,location
+1642,W3WJJP,dont have bike,4,whoAreYou
+1643,26W4YB,llr apply,1,whoAreYou
+1644,504A87,i have two wheeler,1,notInterested
+1645,F2TL4M,hellooo,4,location
+1646,IKEG2C,ok,1,greeting
+1647,7SIAI8,16 yrs old,5,greeting
+1648,RRZH2E,ok,5,location
+1649,FNQH9B,kkk,1,greeting
+1650,MCP82B,hi,0,whoAreYou
+1651,W4HS4E,no its too far,4,notInterested
+1652,9D43HQ,good morning and have a blessed day,3,dontMeetRequirements
+1653,K8FV7Q,wher is located,5,dontMeetRequirements
+1654,NUCCYI,hlo,1,notInterested
+1655,TCUMVK,okkk,1,whoAreYou
+1656,3CW8Z2,hi,0,whoAreYou
+1657,QFGVEJ,bhai,5,notInterested
+1658,936ZBZ,i have licence only,3,notInterested
+1659,SYPSVX,hi,1,whoAreYou
+1660,LTRC8R,thanks sir,4,notInterested
+1661,R7I6QR,ok,1,notInterested
+1662,4IVPPG,hello,4,whoAreYou
+1663,1KHSFI,okay,3,whoAreYou
+1664,F75I6F,kk,3,greeting
+1665,ES8RPX,ok,5,greeting
+1666,6Z0L4B,learning license,1,whoAreYou
+1667,P84DHC,hii,5,greeting
+1668,JQKJCR,nhi chaiya,2,notInterested
+1669,9X8L99,sry i cant come to ur place becoz it is from my place,1,greeting
+1670,FIO1JL,ledu,1,notInterested
+1671,3U6JVF,ok,3,whoAreYou
+1672,UGV83J,where,5,greeting
+1673,8QRQAB,only ll now,3,greeting
+1674,J2DWTS,hai computer,4,notInterested
+1675,SH4JK9,ok,0,greeting
+1676,FOVBQ8,mere pass bike nhi hai,4,dontMeetRequirements
+1677,0PB2TO,ok good night computer tomorrow ok bye bye,1,greeting
+1678,SQEHD9,ok,1,whoAreYou
+1679,N79ZBB,ok,4,whoAreYou
+1680,3PMWYL,kk,0,whoAreYou
+1681,GD5JEY,ok,2,dontMeetRequirements
+1682,N3KE3Y,sir but licence nahi hai,3,greeting
+1683,QENOU2,hello,0,whoAreYou
+1684,PB0LNI,no,3,whoAreYou
+1685,AB2MWD,ok,1,whoAreYou
+1686,APU6K0,ok,3,location
+1687,P5U8BR,hi,2,whoAreYou
+1688,FSICSG,location ekkda,3,whoAreYou
+1689,W8EH67,hello sir,0,notInterested
+1690,JJX57F,kis jagah jab milega,2,greeting
+1691,T0GHYQ,ok,4,notInterested
+1692,0JBBP1,which city,3,greeting
+1693,FZK3U1,hii,5,whoAreYou
+1694,5P3WDR,hi,1,greeting
+1695,QLL37P,hi,4,whoAreYou
+1696,LBVUC7,hai,1,notInterested
+1697,AI8P2U,sorry by mistake i type for delivery jobs,2,notInterested
+1698,WUQ3S6,no,0,whoAreYou
+1699,Q1P6KR,where is kasthuri nagar,0,whoAreYou
+1700,Z8SW18,bhai,4,dontMeetRequirements
+1701,XV7RXO,hi,2,notInterested
+1702,85P910,ok,5,notInterested
+1703,7MM5BI,hi,2,greeting
+1704,94RZHO,hello,2,greeting
+1705,R0CTRI,hii,1,greeting
+1706,RTN7XY,ok,0,whoAreYou
+1707,6F9UJ8,hello,2,greeting
+1708,2GJTID,kya location h,5,whoAreYou
+1709,1W10IN,ohk,4,whoAreYou
+1710,Q3PQ76,good morning,2,greeting
+1711,IOYH8U,ok,0,whoAreYou
+1712,7OH4DV,i wont give u money,4,greeting
+1713,RZRIRY,hii,1,greeting
+1714,TI79FX,thanks sir,4,whoAreYou
+1715,0BBXYF,time to batao,4,whoAreYou
+1716,4V8AFG,area,0,location
+1717,Z46ER3,hai,0,dontMeetRequirements
+1718,AESDQ6,hii,4,whoAreYou
+1719,0BT3SE,k,1,whoAreYou
+1720,LE5LR6,gd morning,0,greeting
+1721,TA46Z1,hi,1,whoAreYou
+1722,7H4YG4,ok,5,whoAreYou
+1723,3PZCH7,i dnt hv bike,4,whoAreYou
+1724,6HE19X,ok,3,whoAreYou
+1725,7V6ZDM,were,2,greeting
+1726,J69UA7,kk,4,notInterested
+1727,L9LUQ5,ledu,1,notInterested
+1728,Q12FRA,ll,5,notInterested
+1729,4CVER8,hi,1,greeting
+1730,KR227S,kk,2,notInterested
+1731,KW5F9G,i have lerner licennce alredy apply for dl soon it ll be dispatch,0,whoAreYou
+1732,JUHXD8,location,2,greeting
+1733,3T3G9D,nai kar naa hai,4,notInterested
+1734,SMW7FU,hlo,2,whoAreYou
+1735,HBGHB8,hii,4,whoAreYou
+1736,9M79TY,hi,3,dontMeetRequirements
+1737,BPJR7R,i dnt have a smart phone i have only learing licence,3,whoAreYou
+1738,C6GITD,not interset,0,greeting
+1739,Q5398P,dont send messages,3,greeting
+1740,E1PLT8,no tks,3,dontMeetRequirements
+1741,800DKL,hiii,2,greeting
+1742,4N2CRG,were is ur office,5,whoAreYou
+1743,VCNTOH,hi,3,whoAreYou
+1744,V5OSN1,hi thanks for considering my cv,3,whoAreYou
+1745,80SE2N,i no message,5,dontMeetRequirements
+1746,J50QAA,hello sir,0,whoAreYou
+1747,9Z5ZWB,hi,2,greeting
+1748,2AZJWB,kk,0,whoAreYou
+1749,EGUD9E,ok,2,notInterested
+1750,P7AHQM,hi,2,notInterested
+1751,ZZLQHT,nooo,2,whoAreYou
+1752,917L7M,no,4,whoAreYou
+1753,CB77MR,helli,1,greeting
+1754,4ZP32Y,sorry bye dont disturb,0,greeting
+1755,XJ03Y8,what areas bro,5,whoAreYou
+1756,440YF1,hi,5,whoAreYou
+1757,DL9GXF,hi sir and madam,3,whoAreYou
+1758,JVRMEO,sir your mine office were,2,whoAreYou
+1759,M8KK2U,which location is the job i will be working,1,greeting
+1760,3P4V9I,kk,4,greeting
+1761,QIBNFI,hello,0,whoAreYou
+1762,0RVB4Q,ok,5,notInterested
+1763,ELMYDI,hi,5,greeting
+1764,IM25C1,so why did u msg me,1,greeting
+1765,MMGDLN,hai,2,location
+1766,I59KVN,hi,4,whoAreYou
+1767,0903V4,ok sir,3,notInterested
+1768,TR4O65,2ella,4,notInterested
+1769,6SGQ89,which location,4,notInterested
+1770,6TCWE2,ok,3,greeting
+1771,LDNX6C,i need job i have learning license i am possible this job,4,greeting
+1772,HPAET0,okay,0,greeting
+1773,RK7OC5,not insert,2,location
+1774,EYX46I,ok,4,whoAreYou
+1775,LXMKUE,ledu,3,notInterested
+1776,KQ578D,i got a new bike but rc card innu bandilla,3,whoAreYou
+1777,HW1HOR,thank you,4,dontMeetRequirements
+1778,7RR3M9,ledhu,0,whoAreYou
+1779,9IXFJQ,hii,5,whoAreYou
+1780,RTVV5I,srryy,3,whoAreYou
+1781,G1DSIC,aitu iru guru,5,greeting
+1782,JFR89C,ok,1,greeting
+1783,XCYGKZ,hlo,0,whoAreYou
+1784,74SIRS,ye office kahan h,5,greeting
+1785,52GEW1,hi,4,greeting
+1786,HJFBYP,ll,5,whoAreYou
+1787,AQDCYJ,which location,5,greeting
+1788,RSCP5L,sry,3,greeting
+1789,BM3TLW,kk,0,location
+1790,W718QE,hey,0,greeting
+1791,8Y1W83,stupid,5,whoAreYou
+1792,W5QBCO,hi sir im suchindra,4,location
+1793,VEOSVE,hi,2,greeting
+1794,883H09,ok,0,greeting
+1795,O4H216,hello,0,greeting
+1796,49VTA7,ok,2,location
+1797,B0IE4H,sorry no bike,5,whoAreYou
+1798,8DC77D,hi,2,greeting
+1799,S1J8GQ,hello,1,greeting
+1800,6CZUO7,not interested in delivery jobs,2,greeting
+1801,W066CD,no sorry computer,0,whoAreYou
+1802,C0PYT6,ok,4,location
+1803,ESSVEF,24,3,whoAreYou
+1804,IYQA8D,helloo,3,notInterested
+1805,SI8VLB,ok,3,greeting
+1806,ZXO02B,hey,3,greeting
+1807,58KK6L,ok,0,whoAreYou
+1808,3NX0FU,hey,0,dontMeetRequirements
+1809,WKJ4LZ,but sir me paise nhi pay karunga,4,greeting
+1810,24ACRP,i have learning license,5,location
+1811,E5NQXV,hi,1,greeting
+1812,LG068R,hiii,3,dontMeetRequirements
+1813,U67Y2Y,hi,0,whoAreYou
+1814,QQUC9W,ok,3,notInterested
+1815,ZS0P43,good morning,1,dontMeetRequirements
+1816,02OPPR,good nyt,0,notInterested
+1817,UVPQW8,licences bhi nahi hai,4,notInterested
+1818,IGG8IN,learning,4,notInterested
+1819,3MQCW6,location package,4,whoAreYou
+1820,Q97HXL,where is koramangala,0,whoAreYou
+1821,4P39K1,hiii,0,whoAreYou
+1822,AX3Z80,ok,0,greeting
+1823,NZ0IMY,okay,1,greeting
+1824,7VIRCL,hii,0,whoAreYou
+1825,WDI3UX,ok,0,whoAreYou
+1826,QYGBXK,i have llr,1,greeting
+1827,8HD23X,i like to kasturi nagar but on saturday im on amazon job,4,greeting
+1828,JR0Q85,ok,3,whoAreYou
+1829,Z82NGE,hi,2,notInterested
+1830,5D6A1K,ok,0,greeting
+1831,Y4M9JV,i have no bike,4,whoAreYou
+1832,Y012MS,kha ana hoga,5,notInterested
+1833,FN35PF,hello,5,whoAreYou
+1834,1HXI2U,learning licence,0,greeting
+1835,XVXEDD,hi,4,greeting
+1836,ERJL2M,k but my work location,1,greeting
+1837,KAHXDN,ok,3,whoAreYou
+1838,CBMJ8Y,good night,0,notInterested
+1839,Z9V5MB,ok,3,notInterested
+1840,SKQJWY,hi unnati,0,greeting
+1841,WCFY8R,ok,5,greeting
+1842,X9CVNM,thank you for your valuable time sir,5,dontMeetRequirements
+1843,M0EGOL,jayanagar,0,whoAreYou
+1844,9UMMAT,which area,3,whoAreYou
+1845,2Q1I3A,ok ok thn,3,whoAreYou
+1846,8QWDOE,hi,5,whoAreYou
+1847,ZHY9TC,driveing license leadu,4,notInterested
+1848,9BKLED,but i had no bike sir,1,whoAreYou
+1849,9TJKJD,hi,3,whoAreYou
+1850,ZFEHBI,abhi to nahi,2,greeting
+1851,ZJHAY0,hi,4,notInterested
+1852,GRB1HY,hi,2,whoAreYou
+1853,31FHRD,did job isz in bnglr,3,whoAreYou
+1854,OVRBFY,ok,4,whoAreYou
+1855,49JU9Y,thanks for informing me,5,whoAreYou
+1856,LNMUK3,helo,4,notInterested
+1857,4BNG3Z,gud mrng,5,dontMeetRequirements
+1858,PR0DLI,nonsense,3,notInterested
+1859,6QWVCA,ledu maa brother di undi,4,greeting
+1860,T6LKPT,i have no bike,4,greeting
+1861,MNA87X,ok tell me,3,greeting
+1862,V9ENRZ,so,5,whoAreYou
+1863,SNBWZL,hi,1,whoAreYou
+1864,WUFSB9,tqq sir,3,greeting
+1865,BH82M4,which airea located job,3,greeting
+1866,ANF2WV,dont have vehicle,0,dontMeetRequirements
+1867,TXFF2F,ok,1,greeting
+1868,ALNG6H,hloo,4,whoAreYou
+1869,DBV3OG,tq,0,notInterested
+1870,90C51H,ok,3,whoAreYou
+1871,QTW3M5,hi,0,whoAreYou
+1872,B40NI9,thnx,3,location
+1873,LD3NM4,i have driving licences llr,1,location
+1874,1JJI6S,ledhu thechukunta,2,whoAreYou
+1875,Q3DOFR,no,4,greeting
+1876,DKQART,i dont have two wheeler license but own two wheeler so can i applied this jo,2,notInterested
+1877,1AHU6C,ok,0,notInterested
+1878,55PALT,ok i think my mistake why am chat you and finally am block sai ram,0,greeting
+1879,VSW20M,ok,0,greeting
+1880,PKBY3B,where is interview,5,location
+1881,PRBW12,we dont have a interest,0,greeting
+1882,LXFFKW,mere paas bike nhi h,1,location
+1883,789O66,hello,4,whoAreYou
+1884,NN20MV,get lost,2,dontMeetRequirements
+1885,GAVZIO,hi,2,location
+1886,2FCZJT,ok,3,whoAreYou
+1887,STXBKL,i vl block u,3,greeting
+1888,CN4ALS,edhi akada job,1,location
+1889,WWP5NX,hi,0,dontMeetRequirements
+1890,6M68U4,no,1,whoAreYou
+1891,VQ3XAW,hii,4,greeting
+1892,MFBMXI,hi,4,whoAreYou
+1893,SWD7H6,i have lr only,3,whoAreYou
+1894,W574OL,i have bike licence,0,notInterested
+1895,WWAZ0A,hi,4,whoAreYou
+1896,V44CQA,kkk,3,whoAreYou
+1897,9QU67R,hi,3,greeting
+1898,8GQCUO,hi,2,greeting
+1899,HD0AEX,hi,4,whoAreYou
+1900,O5GI27,hii,4,location
+1901,RKNZ3H,but i dont have bike,1,greeting
+1902,YBQMJ8,sorry i dont know to drive a 2wheeler bike,1,greeting
+1903,L6107W,hiii,3,notInterested
+1904,NUG29C,ohhkk,1,notInterested
+1905,5RXLUS,hi,1,whoAreYou
+1906,TLAAG3,sir i want to know my working location,4,greeting
+1907,S6LU99,hi,4,whoAreYou
+1908,HQ8MBP,l l,2,notInterested
+1909,KW6TU8,learning i hv,5,notInterested
+1910,3UNBKR,kidar he,0,location
+1911,AF0026,hey,5,notInterested
+1912,5PAXTK,i dont have pan card,4,greeting
+1913,Z1PURC,get lost,4,greeting
+1914,11JMAE,ok,5,whoAreYou
+1915,PRNLV3,ll chapu,5,greeting
+1916,9KLI2C,address,3,whoAreYou
+1917,DSRBFA,ya i have,4,notInterested
+1918,MPUXII,when i dont know city name how can i tell you,0,whoAreYou
+1919,4UYHKN,hi,2,notInterested
+1920,5WZC8I,hi,5,whoAreYou
+1921,V8Z6R7,,1,greeting
+1922,06TGMR,ok ji,1,whoAreYou
+1923,57Q8N5,hi,1,notInterested
+1924,1A56BK,thanku lm not interested,2,whoAreYou
+1925,CGPPNL,hindi nai aate,0,greeting
+1926,8SU2IG,good morning,5,greeting
+1927,7YIGLX,ok,0,whoAreYou
+1928,PAT29H,sir mere pass gadi no,2,greeting
+1929,OQ8H48,ok sure,5,notInterested
+1930,Y56TGE,gm,4,greeting
+1931,KT9HUH,not,3,whoAreYou
+1932,5DRTUN,learning licence i have,4,notInterested
+1933,16AD4P,hi sir,3,dontMeetRequirements
+1934,06UMAP,hi,0,location
+1935,M5RH64,kaha pe job krna ho ga,5,notInterested
+1936,RLH3RP,plz wait busy now n were location,0,dontMeetRequirements
+1937,JD7D7M,no,5,whoAreYou
+1938,PPXBDG,ok,3,notInterested
+1939,OJLTDJ,hello sir,2,whoAreYou
+1940,NRYRV5,ohhh ok,5,greeting
+1941,ICPI4Y,but i dont have bike,1,whoAreYou
+1942,3D57MX,okey,1,notInterested
+1943,00MSOG,why you sent me message,0,notInterested
+1944,HCJXXQ,ok,5,greeting
+1945,GYYOUQ,hai,0,location
+1946,ZCTDA3,hy u,1,whoAreYou
+1947,M1W3V5,i have no bibek,1,whoAreYou
+1948,FFQHWZ,job location,3,whoAreYou
+1949,LBUP60,hieeee sir,1,greeting
+1950,TBYK82,hy,0,greeting
+1951,U7EW7C,where are you office,4,notInterested
+1952,W5G3II,ok,1,whoAreYou
+1953,JSQQZR,hai,0,greeting
+1954,XDJ0DX,hiiii,0,notInterested
+1955,07RUKJ,hi,0,greeting
+1956,Z2RI0W,no,5,notInterested
+1957,YLJM8G,hlo,2,greeting
+1958,5VYPVB,ll,1,greeting
+1959,32PTF6,but i dnt know reading,1,greeting
+1960,9MV3P9,hello,0,whoAreYou
+1961,NKJMIR,hello,0,greeting
+1962,87UJ3N,but sir i do not have a bikr,4,notInterested
+1963,NWSCIO,hiiii,5,greeting
+1964,4PAWWE,hii,1,notInterested
+1965,UDK5TF,ok,1,location
+1966,1FVJCJ,location,0,notInterested
+1967,0N6GQ7,hi,5,whoAreYou
+1968,C6HK82,achha,0,notInterested
+1969,P994PP,vahan delivery,1,notInterested
+1970,Q6IZP3,time nai hy mere pas,3,greeting
+1971,H90U8P,hiii,5,whoAreYou
+1972,4RZ1T5,hii,3,whoAreYou
+1973,9URV56,no,5,notInterested
+1974,UC5H2C,then sry,0,location
+1975,JEY6YO,thank you sir,2,notInterested
+1976,ZDTX96,butwhich city siractually i m belongs to nagpur,2,greeting
+1977,9YO09P,sir i have no two wheeler,1,notInterested
+1978,IHH6ZH,i blocked u,0,dontMeetRequirements
+1979,ODYQ39,ok,3,greeting
+1980,F3US1P,how are you,2,whoAreYou
+1981,3D7KO2,ok,5,greeting
+1982,KU43IC,thanks for this,4,notInterested
+1983,GLEI60,hi,2,dontMeetRequirements
+1984,90YYUD,hay,3,greeting
+1985,FQGNAH,job whare,0,whoAreYou
+1986,9HROF9,but i dont have license,1,notInterested
+1987,SC4Y2D,hello,4,greeting
+1988,NRHKDQ,hi,2,greeting
+1989,MCOUCX,ok,1,whoAreYou
+1990,U0Z4ZF,kk,1,notInterested
+1991,CK9IU9,okay,4,whoAreYou
+1992,MDY1C7,okay,0,whoAreYou
+1993,N7Z662,where work,2,greeting
+1994,O6TX8S,mere paas khud ka nai hai,2,notInterested
+1995,2RG46Y,ok by,4,dontMeetRequirements
+1996,HCTZ3F,ll,5,notInterested
+1997,ITXTOW,ok sir,2,whoAreYou
+1998,IOKVYD,hello,4,greeting
+1999,UGBYIK,no bike,0,greeting
